@@ -1,0 +1,330 @@
+{
+  "items": [
+    {
+      "description": "The term \"case studies\" is used here in a general sense to describe any study of reproducibility. A reproduction is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A refactor involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A replication involves generating new data and applying existing methods to achieve comparable results. A robustness test applies various protocols, workflows, statistical models or parameters to a given data set to study their effect on results, either as a follow-up to an existing study or as a \"bake-off\". A census is a high-level tabulation conducted by a third party. A survey is a questionnaire sent to practitioners. A case narrative is an in-depth first-person account. An independent discussion utilizes a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.",
+      "items": [],
+      "title": "Case studies"
+    },
+    {
+      "description": "These are one-off unpublished attempts to reproduce individual studies",
+      "items": [],
+      "title": "Ad-hoc reproductions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Theory papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Theses and dissertations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool reviews"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "R",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "repo",
+              "description": "provenance framework package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2026-08-04T21:55:13Z",
+                "owner": "franapoli",
+                "repo": "repo",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "orderly",
+              "description": "R package that automates writing reproducible analyses",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2026-01-21T10:00:14Z",
+                "owner": "mrc-ide",
+                "repo": "orderly",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "auditlite",
+              "description": "lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-15T17:13:10Z",
+                "owner": "heidihelena",
+                "repo": "auditlite",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Research Repo Doctor",
+              "description": "deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-10T18:01:00Z",
+                "owner": "Tom409114",
+                "repo": "research-repo-doctor",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Linux-related (polyglot)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BILN",
+              "description": "a lightweight, \"black box\" flight recorder for bioinformatics experiments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-09T09:59:55Z",
+                "owner": "JimmyXtesla",
+                "repo": "BILN",
+                "stars": 57
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Development Resources"
+    },
+    {
+      "description": "Places to find papers with code or portals to host them",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jupyter Gallery",
+          "description": "Gallery of interesting Jupyter notebooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T16:05:40Z",
+            "owner": "jupyter",
+            "repo": "jupyter",
+            "stars": 15349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NARPS",
+          "description": "Code related to Neuroimaging Analysis Replication and Prediction Study",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-02-26T18:31:51Z",
+            "owner": "poldrack",
+            "repo": "narps",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Exemplar Portals"
+    },
+    {
+      "description": "Experimental papers that have associated notebooks",
+      "items": [],
+      "title": "Runnable Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Haibe-Kains lab"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Patcher lab"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Siepel lab"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Public Datasets",
+          "description": "A topic-centric list of HQ open datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T19:54:53Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Docker",
+          "description": "Everything related to the Docker containerization system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T22:24:33Z",
+            "owner": "veggiemonk",
+            "repo": "awesome-docker",
+            "stars": 36631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Pipeline",
+          "description": "So many pipelines frameworks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T07:45:32Z",
+            "owner": "pditommaso",
+            "repo": "awesome-pipeline",
+            "stars": 6618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome R",
+          "description": "Section on RR tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-18T16:46:19Z",
+            "owner": "qinwf",
+            "repo": "awesome-R",
+            "stars": 6495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Jupyter",
+          "description": "Jupyter projects, libraries and resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T00:08:17Z",
+            "owner": "markusschanta",
+            "repo": "awesome-jupyter",
+            "stars": 4660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Semantic Web",
+          "description": "Semantic web and linked data resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T13:17:37Z",
+            "owner": "semantalytics",
+            "repo": "awesome-semantic-web",
+            "stars": 1677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Bioinformatics Benchmarks",
+          "description": "Benchmarks are a related aspect of robustness testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-26T16:32:39Z",
+            "owner": "j-andrews7",
+            "repo": "awesome-bioinformatics-benchmarks",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Open Science",
+          "description": "Resources, data, tools, and scholarship",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-27T14:24:25Z",
+            "owner": "ZoranPandovski",
+            "repo": "awesome-open-science",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Reproducible R",
+          "description": "RRR tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-12-21T05:59:35Z",
+            "owner": "datasnakes",
+            "repo": "awesome-reproducible-R",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Awesome Lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first. You may find my script useful for quickly generating entries from a DOI.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Jeremy Leipzig has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:06:45.539Z",
+    "original_repository": "leipzig/awesome-reproducible-research",
+    "original_repository_sha": "cce9a337af7a4e4a779978d4583f3b05e7497100",
+    "enhanced_repository": "enhansome/enhansome-reproducible-research",
+    "enhanced_repository_description": null,
+    "title": "Awesome Reproducible Research with stars"
+  }
+}
