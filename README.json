@@ -190,7 +190,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78076
+            "stars": 78093
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-07-29T22:24:33Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36631
+            "stars": 36637
           }
         },
         {
@@ -243,7 +243,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T00:08:17Z",
+            "last_commit": "2026-08-14T00:08:10Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4660
@@ -257,7 +257,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-20T13:17:37Z",
+            "last_commit": "2026-08-14T12:39:32Z",
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
             "stars": 1677
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:06:45.539Z",
+    "last_updated": "2026-08-14T15:01:42.147Z",
     "original_repository": "leipzig/awesome-reproducible-research",
     "original_repository_sha": "cce9a337af7a4e4a779978d4583f3b05e7497100",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
