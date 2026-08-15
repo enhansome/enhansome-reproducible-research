@@ -136,7 +136,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15349
+            "stars": 15350
           }
         },
         {
@@ -169,7 +169,7 @@
     {
       "description": "",
       "items": [],
-      "title": "Patcher lab"
+      "title": "Pachter lab"
     },
     {
       "description": "",
@@ -190,7 +190,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78093
+            "stars": 78098
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-07-29T22:24:33Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36637
+            "stars": 36645
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6495
+            "stars": 6496
           }
         },
         {
@@ -243,10 +243,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T00:08:10Z",
+            "last_commit": "2026-08-15T00:00:29Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4660
+            "stars": 4661
           }
         },
         {
@@ -320,9 +320,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:01:42.147Z",
+    "last_updated": "2026-08-15T14:32:09.376Z",
     "original_repository": "leipzig/awesome-reproducible-research",
-    "original_repository_sha": "cce9a337af7a4e4a779978d4583f3b05e7497100",
+    "original_repository_sha": "7cfa69131edb229dfba673d26e70b1a6e616b912",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"
