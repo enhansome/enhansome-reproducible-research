@@ -1,32 +1,7 @@
 {
   "items": [
     {
-      "description": "The term \"case studies\" is used here in a general sense to describe any study of reproducibility. A reproduction is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A refactor involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A replication involves generating new data and applying existing methods to achieve comparable results. A robustness test applies various protocols, workflows, statistical models or parameters to a given data set to study their effect on results, either as a follow-up to an existing study or as a \"bake-off\". A census is a high-level tabulation conducted by a third party. A survey is a questionnaire sent to practitioners. A case narrative is an in-depth first-person account. An independent discussion utilizes a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.",
-      "items": [],
-      "title": "Case studies"
-    },
-    {
-      "description": "These are one-off unpublished attempts to reproduce individual studies",
-      "items": [],
-      "title": "Ad-hoc reproductions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Theory papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Theses and dissertations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tool reviews"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -40,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 37859557,
                 "language": "R",
                 "last_commit": "2026-08-04T21:55:13Z",
                 "owner": "franapoli",
@@ -54,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 620884286,
                 "language": "R",
                 "last_commit": "2026-01-21T10:00:14Z",
                 "owner": "mrc-ide",
@@ -75,6 +52,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1297407374,
                 "language": "Python",
                 "last_commit": "2026-07-15T17:13:10Z",
                 "owner": "heidihelena",
@@ -89,6 +67,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1258006932,
                 "language": "Python",
                 "last_commit": "2026-07-10T18:01:00Z",
                 "owner": "Tom409114",
@@ -110,6 +89,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1043387757,
                 "language": "Python",
                 "last_commit": "2026-08-09T09:59:55Z",
                 "owner": "JimmyXtesla",
@@ -132,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36895421,
             "language": "Python",
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15351
+            "stars": 15352
           }
         },
         {
@@ -146,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85984198,
             "language": "HTML",
             "last_commit": "2025-02-26T18:31:51Z",
             "owner": "poldrack",
@@ -157,27 +139,7 @@
       "title": "Exemplar Portals"
     },
     {
-      "description": "Experimental papers that have associated notebooks",
-      "items": [],
-      "title": "Runnable Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Haibe-Kains lab"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Pachter lab"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Siepel lab"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -186,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26898879,
             "language": null,
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78133
+            "stars": 78143
           }
         },
         {
@@ -200,11 +163,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24297122,
             "language": null,
-            "last_commit": "2026-07-29T22:24:33Z",
+            "last_commit": "2026-08-18T20:54:04Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36662
+            "stars": 36668
           }
         },
         {
@@ -214,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22013111,
             "language": null,
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
@@ -228,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22003158,
             "language": "R",
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6498
+            "stars": 6499
           }
         },
         {
@@ -242,8 +208,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-16T23:59:06Z",
+            "last_commit": "2026-08-19T00:00:12Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4662
@@ -256,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71265967,
             "language": null,
             "last_commit": "2026-08-14T12:39:32Z",
             "owner": "semantalytics",
@@ -270,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223818793,
             "language": null,
             "last_commit": "2026-02-26T16:32:39Z",
             "owner": "j-andrews7",
@@ -284,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196834395,
             "language": null,
             "last_commit": "2023-09-27T14:24:25Z",
             "owner": "ZoranPandovski",
@@ -298,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155089763,
             "language": "R",
             "last_commit": "2024-12-21T05:59:35Z",
             "owner": "datasnakes",
@@ -307,21 +278,12 @@
         }
       ],
       "title": "Awesome Lists"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first. You may find my script useful for quickly generating entries from a DOI.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Jeremy Leipzig has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:42:36.261Z",
+    "last_updated": "2026-08-19T12:48:03.671Z",
     "original_repository": "leipzig/awesome-reproducible-research",
+    "original_repository_id": 110871367,
     "original_repository_sha": "7cfa69131edb229dfba673d26e70b1a6e616b912",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
