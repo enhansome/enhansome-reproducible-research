@@ -4907,8 +4907,8 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,143 | 🐛 159 | 📅 2026-08-04 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,668 | 🐛 12 | 📅 2026-08-18 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,146 | 🐛 159 | 📅 2026-08-04 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,668 | 🐛 13 | 📅 2026-08-18 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,619 | 🐛 34 | 📅 2026-08-04 - So many pipelines frameworks
 * [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,499 | 🐛 29 | 🌐 R | 📅 2025-09-18 - Section on RR tools
 * [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,662 | 🐛 16 | 📅 2026-08-19 - Jupyter projects, libraries and resources
