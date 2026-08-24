@@ -225,7 +225,7 @@
             "last_commit": "2026-08-23T23:52:17Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78583
+            "stars": 78584
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36701
+            "stars": 36700
           }
         },
         {
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:24:56.397Z",
+    "last_updated": "2026-08-24T14:52:24.487Z",
     "original_repository": "leipzig/awesome-reproducible-research",
     "original_repository_id": 110871367,
     "original_repository_sha": "babee247457831e334d6a6c72dbb8da1d09bb631",
