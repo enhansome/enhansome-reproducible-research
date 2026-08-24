@@ -74,6 +74,21 @@
                 "repo": "research-repo-doctor",
                 "stars": 1
               }
+            },
+            {
+              "node_type": "item",
+              "title": "PIT Audit Registry",
+              "description": "reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1336525726,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T14:12:49Z",
+                "owner": "MaxWellApexLab",
+                "repo": "pit-audit-registry",
+                "stars": 0
+              }
             }
           ]
         },
@@ -96,11 +111,68 @@
                 "repo": "BILN",
                 "stars": 57
               }
+            },
+            {
+              "node_type": "item",
+              "title": "server-spy",
+              "description": "terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1341997253,
+                "language": "Rust",
+                "last_commit": "2026-08-24T10:01:53Z",
+                "owner": "lennart-rth",
+                "repo": "server-spy",
+                "stars": 4
+              }
             }
           ]
         }
       ],
       "title": "Development Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CiteVahti",
+          "description": "local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1257383434,
+            "language": "Python",
+            "last_commit": "2026-08-22T23:55:17Z",
+            "owner": "heidihelena",
+            "repo": "citevahti",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Literature tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Falsify / PRML",
+          "description": "Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219809014,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:43:34Z",
+            "owner": "studio-11-co",
+            "repo": "falsify",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Scientific Data Management Systems"
     },
     {
       "description": "Places to find papers with code or portals to host them",
@@ -117,7 +189,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350
+            "stars": 15352
           }
         },
         {
@@ -150,10 +222,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-21T17:12:16Z",
+            "last_commit": "2026-08-23T23:52:17Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78527
+            "stars": 78583
           }
         },
         {
@@ -168,7 +240,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36695
+            "stars": 36701
           }
         },
         {
@@ -183,7 +255,7 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6621
+            "stars": 6623
           }
         },
         {
@@ -198,7 +270,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6505
+            "stars": 6507
           }
         },
         {
@@ -210,7 +282,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-22T23:59:36Z",
+            "last_commit": "2026-08-23T23:59:34Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
@@ -281,10 +353,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:32:15.364Z",
+    "last_updated": "2026-08-24T14:24:56.397Z",
     "original_repository": "leipzig/awesome-reproducible-research",
     "original_repository_id": 110871367,
-    "original_repository_sha": "7cfa69131edb229dfba673d26e70b1a6e616b912",
+    "original_repository_sha": "babee247457831e334d6a6c72dbb8da1d09bb631",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"
