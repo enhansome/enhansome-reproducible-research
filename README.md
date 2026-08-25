@@ -4910,11 +4910,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,603 | 🐛 159 | 📅 2026-08-24 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,707 | 🐛 16 | 📅 2026-08-19 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,621 | 🐛 159 | 📅 2026-08-25 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,708 | 🐛 16 | 📅 2026-08-19 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,623 | 🐛 34 | 📅 2026-08-04 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,508 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,663 | 🐛 16 | 📅 2026-08-25 - Jupyter projects, libraries and resources
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,507 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,662 | 🐛 16 | 📅 2026-08-25 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,680 | 🐛 31 | 📅 2026-08-14 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 365 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
