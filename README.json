@@ -10,7 +10,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "repo",
+              "title": "franapoli/repo",
               "description": "provenance framework package",
               "children": [],
               "repo_info": {
@@ -124,7 +124,7 @@
                 "last_commit": "2026-08-24T10:01:53Z",
                 "owner": "lennart-rth",
                 "repo": "server-spy",
-                "stars": 4
+                "stars": 5
               }
             }
           ]
@@ -135,6 +135,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Lune Research",
+          "description": "MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1234997973,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T20:21:01Z",
+            "owner": "RetrogradeLabs",
+            "repo": "lune-mcp-server",
+            "stars": 3
+          }
+        },
         {
           "node_type": "item",
           "title": "CiteVahti",
@@ -154,27 +169,6 @@
       "title": "Literature tools"
     },
     {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Falsify / PRML",
-          "description": "Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1219809014,
-            "language": "Python",
-            "last_commit": "2026-08-24T11:43:34Z",
-            "owner": "studio-11-co",
-            "repo": "falsify",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Scientific Data Management Systems"
-    },
-    {
       "description": "Places to find papers with code or portals to host them",
       "items": [
         {
@@ -189,7 +183,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15352
+            "stars": 15351
           }
         },
         {
@@ -222,10 +216,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-23T23:52:17Z",
+            "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78584
+            "stars": 78603
           }
         },
         {
@@ -240,7 +234,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36700
+            "stars": 36707
           }
         },
         {
@@ -270,7 +264,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6507
+            "stars": 6508
           }
         },
         {
@@ -282,7 +276,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-23T23:59:34Z",
+            "last_commit": "2026-08-25T00:00:15Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
@@ -353,10 +347,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:52:24.487Z",
+    "last_updated": "2026-08-25T06:17:14.974Z",
     "original_repository": "leipzig/awesome-reproducible-research",
     "original_repository_id": 110871367,
-    "original_repository_sha": "babee247457831e334d6a6c72dbb8da1d09bb631",
+    "original_repository_sha": "c9a6d5a038230f0bad2424d4a676aeba85161f2e",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"
