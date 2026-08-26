@@ -164,6 +164,21 @@
             "repo": "citevahti",
             "stars": 1
           }
+        },
+        {
+          "node_type": "item",
+          "title": "citeguard",
+          "description": "checks whether a cited paper has been retracted, corrected, or flagged with an expression of concern, reading both publisher-asserted Crossref metadata and the Retraction Watch records Crossref backfills (which catch retractions publishers never recorded); ships as a Python library/CLI, an MCP server, and a GitHub Action so a bibliography can be checked in CI, no API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1346332966,
+            "language": "Python",
+            "last_commit": "2026-08-26T14:33:10Z",
+            "owner": "wedo911",
+            "repo": "citeguard",
+            "stars": 0
+          }
         }
       ],
       "title": "Literature tools"
@@ -183,7 +198,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15351
+            "stars": 15350
           }
         },
         {
@@ -216,10 +231,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-25T14:24:19Z",
+            "last_commit": "2026-08-25T16:12:04Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78621
+            "stars": 78651
           }
         },
         {
@@ -234,7 +249,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36708
+            "stars": 36718
           }
         },
         {
@@ -264,7 +279,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6507
+            "stars": 6508
           }
         },
         {
@@ -276,7 +291,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-25T00:00:15Z",
+            "last_commit": "2026-08-26T00:00:34Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4662
@@ -347,10 +362,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:55:22.451Z",
+    "last_updated": "2026-08-26T14:53:19.007Z",
     "original_repository": "leipzig/awesome-reproducible-research",
     "original_repository_id": 110871367,
-    "original_repository_sha": "c9a6d5a038230f0bad2424d4a676aeba85161f2e",
+    "original_repository_sha": "681f9ca71f42e5f489afa6accf268d233a67655a",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"

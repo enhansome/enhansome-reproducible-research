@@ -4557,6 +4557,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 * [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted
 * [CiteVahti](https://github.com/heidihelena/citevahti) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-08-22 - local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records
+* [citeguard](https://github.com/wedo911/citeguard) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - checks whether a cited paper has been retracted, corrected, or flagged with an expression of concern, reading both publisher-asserted Crossref metadata and the Retraction Watch records Crossref backfills (which catch retractions publishers never recorded); ships as a Python library/CLI, an MCP server, and a GitHub Action so a bibliography can be checked in CI, no API key
 * [CiteMe](https://citeme.app) - free tool that flags fabricated or hallucinated references by verifying whether each cited work actually exists across 11+ scholarly databases; also generates and formats citations in 40+ styles, no sign-up
 * [Scite](https://scite.ai/) - Citation statement AI for discovering and evaluating scientific articles
 * [SciScore](https://www.sciscore.com/) - SciScore methods sections for a variety of rigor criteria and analyzes sentences that contain research resources (antibodies, cell lines, plasmids and software tools) and determines how uniquely identifiable that resource is based off of the provided metadata.
@@ -4567,7 +4568,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 * [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
 * [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
 * [Fairly Toolset](https://fairly.readthedocs.io) - Tools for preparing, publishing and downloading datasets from research data repositories directly into computing environments. It provides integration with [Zenodo](https://fairly.readthedocs.io) and [Figshare](https://figshare.com/).
-* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
+* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
 
 ## Books
 
@@ -4599,7 +4600,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 Places to find papers with code or portals to host them
 
-* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,351 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
+* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,350 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
 * [NARPS](https://github.com/poldrack/narps) ⭐ 38 | 🐛 0 | 🌐 HTML | 📅 2025-02-26 - Code related to Neuroimaging Analysis Replication and Prediction Study
 * [Papers With Code](https://paperswithcode.com/) - ML papers with code
 * [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
@@ -4910,12 +4911,12 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,621 | 🐛 159 | 📅 2026-08-25 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,708 | 🐛 16 | 📅 2026-08-19 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,651 | 🐛 159 | 📅 2026-08-25 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,718 | 🐛 18 | 📅 2026-08-19 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,623 | 🐛 34 | 📅 2026-08-04 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,507 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,662 | 🐛 16 | 📅 2026-08-25 - Jupyter projects, libraries and resources
-* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,680 | 🐛 31 | 📅 2026-08-14 - Semantic web and linked data resources.
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,508 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,662 | 🐛 17 | 📅 2026-08-26 - Jupyter projects, libraries and resources
+* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,680 | 🐛 32 | 📅 2026-08-14 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 365 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
 * [Awesome Reproducible R](https://github.com/datasnakes/awesome-reproducible-R) ⭐ 17 | 🐛 3 | 🌐 R | 📅 2024-12-21 - RRR tools
@@ -4933,4 +4934,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
