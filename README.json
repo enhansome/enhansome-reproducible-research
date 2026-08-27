@@ -152,6 +152,21 @@
         },
         {
           "node_type": "item",
+          "title": "citeguard",
+          "description": "checks whether a cited paper has been retracted, corrected, or flagged with an expression of concern, reading both publisher-asserted Crossref metadata and the Retraction Watch records Crossref backfills (which catch retractions publishers never recorded); ships as a Python library/CLI, an MCP server, and a GitHub Action so a bibliography can be checked in CI, no API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1346332966,
+            "language": "Python",
+            "last_commit": "2026-08-26T16:24:11Z",
+            "owner": "wedo911",
+            "repo": "citeguard",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "CiteVahti",
           "description": "local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records",
           "children": [],
@@ -163,21 +178,6 @@
             "owner": "heidihelena",
             "repo": "citevahti",
             "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "citeguard",
-          "description": "checks whether a cited paper has been retracted, corrected, or flagged with an expression of concern, reading both publisher-asserted Crossref metadata and the Retraction Watch records Crossref backfills (which catch retractions publishers never recorded); ships as a Python library/CLI, an MCP server, and a GitHub Action so a bibliography can be checked in CI, no API key",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1346332966,
-            "language": "Python",
-            "last_commit": "2026-08-26T14:33:10Z",
-            "owner": "wedo911",
-            "repo": "citeguard",
-            "stars": 0
           }
         }
       ],
@@ -231,10 +231,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-25T16:12:04Z",
+            "last_commit": "2026-08-26T21:15:40Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78651
+            "stars": 78670
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36718
+            "stars": 36723
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6623
+            "stars": 6624
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6508
+            "stars": 6507
           }
         },
         {
@@ -291,7 +291,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-26T00:00:34Z",
+            "last_commit": "2026-08-27T01:03:19Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4662
@@ -362,9 +362,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:53:19.007Z",
-    "original_repository": "leipzig/awesome-reproducible-research",
-    "original_repository_id": 110871367,
+    "last_updated": "2026-08-27T11:59:35.319Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 110871367,
+      "language": "Python",
+      "last_commit": "2026-08-26T13:51:18Z",
+      "owner": "leipzig",
+      "repo": "awesome-reproducible-research",
+      "stars": 403
+    },
     "original_repository_sha": "681f9ca71f42e5f489afa6accf268d233a67655a",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
