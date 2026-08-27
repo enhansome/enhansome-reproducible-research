@@ -4550,7 +4550,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) ⭐ 0 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-17 - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
 * Linux-related (polyglot)
   * [BILN](https://github.com/JimmyXtesla/BILN) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - a lightweight, "black box" flight recorder for bioinformatics experiments
-  * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-24 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
+  * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-27 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
   * [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
 
 ## Literature tools
@@ -4600,7 +4600,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 Places to find papers with code or portals to host them
 
-* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,350 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
+* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,349 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
 * [NARPS](https://github.com/poldrack/narps) ⭐ 38 | 🐛 0 | 🌐 HTML | 📅 2025-02-26 - Code related to Neuroimaging Analysis Replication and Prediction Study
 * [Papers With Code](https://paperswithcode.com/) - ML papers with code
 * [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
@@ -4911,11 +4911,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,670 | 🐛 159 | 📅 2026-08-26 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,723 | 🐛 19 | 📅 2026-08-19 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,677 | 🐛 159 | 📅 2026-08-27 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,729 | 🐛 21 | 📅 2026-08-27 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,624 | 🐛 34 | 📅 2026-08-04 - So many pipelines frameworks
 * [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,507 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,662 | 🐛 17 | 📅 2026-08-27 - Jupyter projects, libraries and resources
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,663 | 🐛 17 | 📅 2026-08-27 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,680 | 🐛 32 | 📅 2026-08-14 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 365 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship

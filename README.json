@@ -121,7 +121,7 @@
                 "archived": false,
                 "id": 1341997253,
                 "language": "Rust",
-                "last_commit": "2026-08-24T10:01:53Z",
+                "last_commit": "2026-08-27T23:41:27Z",
                 "owner": "lennart-rth",
                 "repo": "server-spy",
                 "stars": 5
@@ -198,7 +198,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350
+            "stars": 15349
           }
         },
         {
@@ -231,10 +231,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-27T22:41:18Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78670
+            "stars": 78677
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 24297122,
             "language": null,
-            "last_commit": "2026-08-19T15:33:40Z",
+            "last_commit": "2026-08-27T17:04:16Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36723
+            "stars": 36729
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-27T01:03:19Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4662
+            "stars": 4663
           }
         },
         {
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:35.319Z",
+    "last_updated": "2026-08-27T23:44:08.734Z",
     "original_repository_info": {
       "archived": false,
       "id": 110871367,
