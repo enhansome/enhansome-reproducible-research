@@ -21,7 +21,8 @@
                 "owner": "franapoli",
                 "repo": "repo",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.439Z"
             },
             {
               "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "mrc-ide",
                 "repo": "orderly",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.439Z"
             }
           ]
         },
@@ -58,7 +60,8 @@
                 "owner": "heidihelena",
                 "repo": "auditlite",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.439Z"
             },
             {
               "node_type": "item",
@@ -73,7 +76,8 @@
                 "owner": "Tom409114",
                 "repo": "research-repo-doctor",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.439Z"
             },
             {
               "node_type": "item",
@@ -88,7 +92,8 @@
                 "owner": "MaxWellApexLab",
                 "repo": "pit-audit-registry",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.439Z"
             }
           ]
         },
@@ -110,7 +115,8 @@
                 "owner": "JimmyXtesla",
                 "repo": "BILN",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.439Z"
             },
             {
               "node_type": "item",
@@ -121,11 +127,12 @@
                 "archived": false,
                 "id": 1341997253,
                 "language": "Rust",
-                "last_commit": "2026-08-27T23:41:27Z",
+                "last_commit": "2026-08-28T00:08:57Z",
                 "owner": "lennart-rth",
                 "repo": "server-spy",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:31:17.439Z"
             }
           ]
         }
@@ -147,8 +154,9 @@
             "last_commit": "2026-08-24T20:21:01Z",
             "owner": "RetrogradeLabs",
             "repo": "lune-mcp-server",
-            "stars": 3
-          }
+            "stars": 4
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -163,7 +171,8 @@
             "owner": "wedo911",
             "repo": "citeguard",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -178,7 +187,8 @@
             "owner": "heidihelena",
             "repo": "citevahti",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         }
       ],
       "title": "Literature tools"
@@ -198,8 +208,9 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15349
-          }
+            "stars": 15350
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -214,7 +225,8 @@
             "owner": "poldrack",
             "repo": "narps",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         }
       ],
       "title": "Exemplar Portals"
@@ -231,11 +243,12 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-27T22:41:18Z",
+            "last_commit": "2026-08-28T16:22:22Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78677
-          }
+            "stars": 78693
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -249,8 +262,9 @@
             "last_commit": "2026-08-27T17:04:16Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36729
-          }
+            "stars": 36736
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -264,8 +278,9 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6624
-          }
+            "stars": 6625
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -279,8 +294,9 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6507
-          }
+            "stars": 6506
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -291,11 +307,12 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-27T01:03:19Z",
+            "last_commit": "2026-08-28T02:24:47Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -310,7 +327,8 @@
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
             "stars": 1680
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -325,7 +343,8 @@
             "owner": "j-andrews7",
             "repo": "awesome-bioinformatics-benchmarks",
             "stars": 365
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -340,7 +359,8 @@
             "owner": "ZoranPandovski",
             "repo": "awesome-open-science",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         },
         {
           "node_type": "item",
@@ -355,14 +375,15 @@
             "owner": "datasnakes",
             "repo": "awesome-reproducible-R",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:31:17.439Z"
         }
       ],
       "title": "Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:44:08.734Z",
+    "last_updated": "2026-08-28T23:31:17.439Z",
     "original_repository_info": {
       "archived": false,
       "id": 110871367,
