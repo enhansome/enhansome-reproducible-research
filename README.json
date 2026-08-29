@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Data-Centered Data Flow manager for R",
+                "homepage": null,
                 "id": 37859557,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-08-04T21:55:13Z",
+                "open_issues": 1,
                 "owner": "franapoli",
                 "repo": "repo",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
             },
@@ -31,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hospital::ambulance: Lightweight Reproducible Reporting for R",
+                "homepage": "https://mrc-ide.github.io/orderly/",
                 "id": 620884286,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-21T10:00:14Z",
+                "open_issues": 15,
                 "owner": "mrc-ide",
                 "repo": "orderly",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
             }
@@ -54,12 +64,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reproducibility audit trail for research projects: records runs, checks stale outputs, and flags claims downstream of changed sources via multi-hop change propagation. Python + R.",
+                "homepage": null,
                 "id": 1297407374,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-15T17:13:10Z",
+                "open_issues": 0,
                 "owner": "heidihelena",
                 "repo": "auditlite",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "audit-trail",
+                  "metascience",
+                  "provenance",
+                  "python",
+                  "r",
+                  "reproducibility",
+                  "research-integrity"
+                ]
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
             },
@@ -70,12 +93,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artifact Evaluation readiness checker for research code: static scan, safe fixes, verify ladder, appendix, and agent-ready gates. Local-first, no API key.",
+                "homepage": "https://research-repo-doctor-bckncrcwwmg6jrbsrd6btj.streamlit.app/",
                 "id": 1258006932,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-10T18:01:00Z",
+                "open_issues": 6,
                 "owner": "Tom409114",
                 "repo": "research-repo-doctor",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "agents-md",
+                  "ai-agents",
+                  "artifact-evaluation",
+                  "citation",
+                  "cli",
+                  "code-quality",
+                  "coding-agents",
+                  "developer-tools",
+                  "github-action",
+                  "jupyter-notebooks",
+                  "open-science",
+                  "python",
+                  "repository-audit",
+                  "reproducibility",
+                  "reproducible-research",
+                  "research",
+                  "research-artifacts",
+                  "research-software",
+                  "research-tools",
+                  "scientific-computing"
+                ]
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
             },
@@ -86,12 +135,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Are public quant datasets point-in-time safe? Reproducible look-ahead-bias screens: OSAP (Chen-Zimmermann), JKP Global Factor Data, raw SEC EDGAR as-filed panels, feature-store as-of joins.",
+                "homepage": "https://maxwellapexlab.github.io/pit-audit-registry/",
                 "id": 1336525726,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-17T14:12:49Z",
+                "open_issues": 1,
                 "owner": "MaxWellApexLab",
                 "repo": "pit-audit-registry",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "asset-pricing",
+                  "audit",
+                  "cross-sectional",
+                  "data-leakage",
+                  "data-snooping",
+                  "factor-investing",
+                  "look-ahead-bias",
+                  "lookahead-bias",
+                  "open-data",
+                  "point-in-time",
+                  "point-in-time-data",
+                  "reproducibility",
+                  "selection-bias"
+                ]
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
             }
@@ -109,12 +177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Bioinformatician’s Interactive Lab Notebook (BILN) is a smart, dynamic system for tracking experiments, datasets, and workflows. Designed for bioinformaticians, it ensures reproducibility, structured logging, and AI-readiness. Export logs, collaborate seamlessly, and let BILN become your interactive companion in computational biology.",
+                "homepage": null,
                 "id": 1043387757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T09:59:55Z",
+                "open_issues": 1,
                 "owner": "JimmyXtesla",
                 "repo": "BILN",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
             },
@@ -125,12 +198,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Measure a servers congestion and attribute the affect it has on time critical systems experiment runs.",
+                "homepage": "https://lennart-rth.github.io/server-spy/",
                 "id": 1341997253,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T00:08:57Z",
+                "open_issues": 0,
                 "owner": "lennart-rth",
                 "repo": "server-spy",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "congestion-analysis",
+                  "hpc-systems",
+                  "monitoring",
+                  "resource-monitoring",
+                  "slurm",
+                  "systems-engineering",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
             }
@@ -149,12 +235,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official MCP server for Lune Research: search top-tier papers and methodology guidance from any AI client.",
+            "homepage": "https://luneresearch.com",
             "id": 1234997973,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:21:01Z",
+            "open_issues": 0,
             "owner": "RetrogradeLabs",
             "repo": "lune-mcp-server",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "academic-papers",
+              "academic-research",
+              "ai-agents",
+              "ai-for-science",
+              "ai-research",
+              "ai4science",
+              "citation-analysis",
+              "literature-review",
+              "mcp",
+              "model-context-protocol",
+              "research-tools",
+              "scientific-research"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -165,12 +269,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check citations for retractions, corrections, and expressions of concern via Crossref -- Python CLI/library, MCP server, and GitHub Action sharing one empirically-verified detection algorithm.",
+            "homepage": "https://github.com/wedo911/citeguard",
             "id": 1346332966,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:24:11Z",
+            "open_issues": 0,
             "owner": "wedo911",
             "repo": "citeguard",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "academic-writing",
+              "bibliography",
+              "citations",
+              "cli",
+              "crossref",
+              "github-action",
+              "mcp",
+              "mcp-server",
+              "open-science",
+              "python",
+              "research-integrity",
+              "retraction-watch",
+              "scholarly-metadata"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -181,12 +304,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run unit tests on your manuscript. Check every manuscript claim against its cited evidence. Human-first, AI-second, Zotero-audited, local-first.",
+            "homepage": "https://vahtian.com/",
             "id": 1257383434,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T23:55:17Z",
+            "open_issues": 2,
             "owner": "heidihelena",
             "repo": "citevahti",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "academic-writing",
+              "citation-integrity",
+              "citations",
+              "claim-verification",
+              "evidence-synthesis",
+              "fact-checking",
+              "human-in-the-loop",
+              "mcp-server",
+              "pubmed",
+              "reproducible-research",
+              "research-integrity",
+              "research-tools",
+              "scientific-publishing",
+              "systematic-review",
+              "vscode-extension",
+              "zotero",
+              "zotero-plugin",
+              "zotero-workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         }
@@ -203,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter metapackage for installation and documentation",
+            "homepage": "https://jupyter.readthedocs.io/",
             "id": 36895421,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-09T16:05:40Z",
+            "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350
+            "stars": 15350,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -219,12 +371,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code related to Neuroimaging Analysis Replication and Prediction Study",
+            "homepage": null,
             "id": 85984198,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-02-26T18:31:51Z",
+            "open_issues": 0,
             "owner": "poldrack",
             "repo": "narps",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "neuroimaging",
+              "reproducibility"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         }
@@ -241,12 +401,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A topic-centric list of HQ open datasets.",
+            "homepage": "https://awesomedataworld.slack.com",
             "id": 26898879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T16:22:22Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78693
+            "stars": 78694,
+            "topics": [
+              "aaron-swartz",
+              "awesome-public-datasets",
+              "datasets",
+              "opendata"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -257,12 +427,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: A curated list of Docker resources and projects",
+            "homepage": "https://average.joe.dev/awesome-docker/",
             "id": 24297122,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
+            "open_issues": 25,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36736
+            "stars": 36736,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "container",
+              "docker",
+              "docker-api",
+              "docker-container",
+              "docker-deployment",
+              "docker-environment",
+              "docker-image",
+              "docker-machine",
+              "docker-monitoring",
+              "docker-registry",
+              "docker-security",
+              "docker-swarm",
+              "dockerfile",
+              "list",
+              "moby",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -273,12 +467,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+            "homepage": null,
             "id": 22013111,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-04T07:45:32Z",
+            "open_issues": 34,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6625
+            "stars": 6625,
+            "topics": [
+              "awesome-list",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -289,12 +491,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome R packages, frameworks and software.",
+            "homepage": null,
             "id": 22003158,
             "language": "R",
+            "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
+            "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6506
+            "stars": 6507,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-analysis",
+              "data-science",
+              "list",
+              "r",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -305,12 +520,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Jupyter projects, libraries and resources",
+            "homepage": null,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-28T02:24:47Z",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-28T23:57:55Z",
+            "open_issues": 17,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4663
+            "stars": 4663,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-science",
+              "data-visualization",
+              "frontend",
+              "ipython",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterhub",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -321,12 +555,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of various semantic web and linked data resources.",
+            "homepage": null,
             "id": 71265967,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-14T12:39:32Z",
+            "open_issues": 32,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1680
+            "stars": 1680,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "owl",
+              "r2rml",
+              "rdf",
+              "semantic-web",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -337,12 +584,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated and summarized list of bioinformatics bench-marking papers and resources.",
+            "homepage": null,
             "id": 223818793,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-02-26T16:32:39Z",
+            "open_issues": 28,
             "owner": "j-andrews7",
             "repo": "awesome-bioinformatics-benchmarks",
-            "stars": 365
+            "stars": 365,
+            "topics": [
+              "benchmarking-study",
+              "bioinformatics",
+              "bioinformatics-benchmarks",
+              "collection",
+              "genomics"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -353,12 +611,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: :microscope: :unlock:  :mag: A curated list of resources, data, tools, scholarship related to Open Access, Data and Open Science :books: :microscope: :unlock:  :mag: ",
+            "homepage": null,
             "id": 196834395,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-27T14:24:25Z",
+            "open_issues": 2,
             "owner": "ZoranPandovski",
             "repo": "awesome-open-science",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "data-science",
+              "hacktoberfest",
+              "open-access",
+              "open-data",
+              "open-data-science",
+              "open-scholarship",
+              "open-science",
+              "open-source",
+              "research",
+              "research-data",
+              "science-publishing",
+              "science-research"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         },
@@ -369,12 +645,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.",
+            "homepage": null,
             "id": 155089763,
             "language": "R",
+            "license": "Unlicense",
             "last_commit": "2024-12-21T05:59:35Z",
+            "open_issues": 3,
             "owner": "datasnakes",
             "repo": "awesome-reproducible-R",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "r",
+              "r-consortium",
+              "r-core",
+              "reproducible-research",
+              "reproducible-science",
+              "ropensci",
+              "rtools"
+            ]
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
         }
@@ -383,15 +672,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:17.439Z",
+    "last_updated": "2026-08-29T04:43:37.530Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
+      "homepage": null,
       "id": 110871367,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-26T13:51:18Z",
+      "open_issues": 27,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
-      "stars": 403
+      "stars": 403,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "reproducibility",
+        "reproducible-analysis",
+        "reproducible-research",
+        "reproducible-science",
+        "reproducible-workflows"
+      ]
     },
     "original_repository_sha": "681f9ca71f42e5f489afa6accf268d233a67655a",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
