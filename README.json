@@ -203,7 +203,7 @@
                 "id": 1341997253,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T00:08:57Z",
+                "last_commit": "2026-08-29T13:57:09Z",
                 "open_issues": 0,
                 "owner": "lennart-rth",
                 "repo": "server-spy",
@@ -410,7 +410,7 @@
             "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78694,
+            "stars": 78702,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -433,10 +433,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36736,
+            "stars": 36741,
             "topics": [
               "awesome",
               "awesome-list",
@@ -564,7 +564,7 @@
             "open_issues": 32,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1680,
+            "stars": 1681,
             "topics": [
               "awesome",
               "awesome-list",
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:37.530Z",
+    "last_updated": "2026-08-29T17:39:44.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",

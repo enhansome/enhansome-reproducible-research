@@ -4550,7 +4550,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) ⭐ 0 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-17 - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
 * Linux-related (polyglot)
   * [BILN](https://github.com/JimmyXtesla/BILN) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - a lightweight, "black box" flight recorder for bioinformatics experiments
-  * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-28 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
+  * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-29 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
   * [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
 
 ## Literature tools
@@ -4568,7 +4568,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 * [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
 * [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
 * [Fairly Toolset](https://fairly.readthedocs.io) - Tools for preparing, publishing and downloading datasets from research data repositories directly into computing environments. It provides integration with [Zenodo](https://fairly.readthedocs.io) and [Figshare](https://figshare.com/).
-* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
+* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
 
 ## Books
 
@@ -4911,12 +4911,12 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,694 | 🐛 159 | 📅 2026-08-28 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,736 | 🐛 25 | 📅 2026-08-27 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,702 | 🐛 159 | 📅 2026-08-28 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,741 | 🐛 26 | 📅 2026-08-27 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,625 | 🐛 34 | 📅 2026-08-04 - So many pipelines frameworks
 * [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,507 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
 * [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,663 | 🐛 17 | 📅 2026-08-28 - Jupyter projects, libraries and resources
-* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,680 | 🐛 32 | 📅 2026-08-14 - Semantic web and linked data resources.
+* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,681 | 🐛 32 | 📅 2026-08-14 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 365 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
 * [Awesome Reproducible R](https://github.com/datasnakes/awesome-reproducible-R) ⭐ 17 | 🐛 3 | 🌐 R | 📅 2024-12-21 - RRR tools
