@@ -309,8 +309,8 @@
             "id": 1257383434,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-22T23:55:17Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-29T23:55:51Z",
+            "open_issues": 6,
             "owner": "heidihelena",
             "repo": "citevahti",
             "stars": 1,
@@ -406,11 +406,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-28T16:22:22Z",
+            "last_commit": "2026-08-30T17:58:05Z",
             "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78702,
+            "stars": 78729,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -433,10 +433,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36741,
+            "stars": 36747,
             "topics": [
               "awesome",
               "awesome-list",
@@ -476,7 +476,7 @@
             "open_issues": 34,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6625,
+            "stars": 6624,
             "topics": [
               "awesome-list",
               "workflow"
@@ -497,7 +497,7 @@
             "language": "R",
             "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
             "stars": 6507,
@@ -526,7 +526,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T23:57:55Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663,
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:39:44.633Z",
+    "last_updated": "2026-08-30T18:01:54.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
