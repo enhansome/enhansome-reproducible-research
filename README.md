@@ -4568,7 +4568,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 * [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
 * [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
 * [Fairly Toolset](https://fairly.readthedocs.io) - Tools for preparing, publishing and downloading datasets from research data repositories directly into computing environments. It provides integration with [Zenodo](https://fairly.readthedocs.io) and [Figshare](https://figshare.com/).
-* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-30 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
+* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
 
 ## Books
 
@@ -4911,11 +4911,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,729 | 🐛 159 | 📅 2026-08-30 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,747 | 🐛 27 | 📅 2026-08-27 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,746 | 🐛 159 | 📅 2026-08-31 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,755 | 🐛 27 | 📅 2026-08-27 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,624 | 🐛 34 | 📅 2026-08-04 - So many pipelines frameworks
 * [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,507 | 🐛 29 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,663 | 🐛 18 | 📅 2026-08-28 - Jupyter projects, libraries and resources
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,663 | 🐛 18 | 📅 2026-08-30 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,681 | 🐛 32 | 📅 2026-08-14 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 365 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
@@ -4934,4 +4934,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
