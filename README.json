@@ -359,7 +359,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15348,
+            "stars": 15347,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -407,10 +407,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-03T21:42:22Z",
-            "open_issues": 157,
+            "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78805,
+            "stars": 78819,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -433,10 +433,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36779,
+            "stars": 36783,
             "topics": [
               "awesome",
               "awesome-list",
@@ -476,7 +476,7 @@
             "open_issues": 35,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6626,
+            "stars": 6625,
             "topics": [
               "awesome-list",
               "workflow"
@@ -525,11 +525,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T23:57:59Z",
+            "last_commit": "2026-09-04T23:57:49Z",
             "open_issues": 19,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4667,
+            "stars": 4666,
             "topics": [
               "awesome",
               "awesome-list",
@@ -560,11 +560,11 @@
             "id": 71265967,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-14T12:39:32Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-04T19:05:31Z",
+            "open_issues": 31,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1682,
+            "stars": 1683,
             "topics": [
               "awesome",
               "awesome-list",
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:33:32.898Z",
+    "last_updated": "2026-09-05T16:44:22.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
