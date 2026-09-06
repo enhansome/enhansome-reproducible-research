@@ -4557,7 +4557,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 * [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted
 * [citeguard](https://github.com/wedo911/citeguard) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - checks whether a cited paper has been retracted, corrected, or flagged with an expression of concern, reading both publisher-asserted Crossref metadata and the Retraction Watch records Crossref backfills (which catch retractions publishers never recorded); ships as a Python library/CLI, an MCP server, and a GitHub Action so a bibliography can be checked in CI, no API key
-* [CiteVahti](https://github.com/heidihelena/citevahti) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-01 - local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records
+* [CiteVahti](https://github.com/heidihelena/citevahti) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-09-05 - local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records
 * [CiteMe](https://citeme.app) - free tool that flags fabricated or hallucinated references by verifying whether each cited work actually exists across 11+ scholarly databases; also generates and formats citations in 40+ styles, no sign-up
 * [Scite](https://scite.ai/) - Citation statement AI for discovering and evaluating scientific articles
 * [SciScore](https://www.sciscore.com/) - SciScore methods sections for a variety of rigor criteria and analyzes sentences that contain research resources (antibodies, cell lines, plasmids and software tools) and determines how uniquely identifiable that resource is based off of the provided metadata.
@@ -4911,11 +4911,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,819 | 🐛 158 | 📅 2026-09-03 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,783 | 🐛 30 | 📅 2026-08-27 - Everything related to the Docker containerization system
-* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,625 | 🐛 35 | 📅 2026-08-04 - So many pipelines frameworks
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,827 | 🐛 158 | 📅 2026-09-03 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,789 | 🐛 30 | 📅 2026-08-27 - Everything related to the Docker containerization system
+* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,625 | 🐛 36 | 📅 2026-08-04 - So many pipelines frameworks
 * [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,508 | 🐛 29 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,666 | 🐛 19 | 📅 2026-09-04 - Jupyter projects, libraries and resources
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,666 | 🐛 11 | 📅 2026-09-06 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,683 | 🐛 31 | 📅 2026-09-04 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 365 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
@@ -4934,4 +4934,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
