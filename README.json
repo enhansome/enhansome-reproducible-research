@@ -140,7 +140,7 @@
                 "id": 1336525726,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-03T09:29:33Z",
+                "last_commit": "2026-09-07T18:29:01Z",
                 "open_issues": 1,
                 "owner": "MaxWellApexLab",
                 "repo": "pit-audit-registry",
@@ -410,7 +410,7 @@
             "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78827,
+            "stars": 78845,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -436,7 +436,7 @@
             "open_issues": 30,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36789,
+            "stars": 36797,
             "topics": [
               "awesome",
               "awesome-list",
@@ -472,8 +472,8 @@
             "id": 22013111,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-04T07:45:32Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-07T10:02:39Z",
+            "open_issues": 34,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
             "stars": 6625,
@@ -525,11 +525,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-06T10:51:16Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-06T23:57:52Z",
+            "open_issues": 9,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4666,
+            "stars": 4665,
             "topics": [
               "awesome",
               "awesome-list",
@@ -564,7 +564,7 @@
             "open_issues": 31,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1683,
+            "stars": 1684,
             "topics": [
               "awesome",
               "awesome-list",
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T16:53:48.494Z",
+    "last_updated": "2026-09-07T18:41:46.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
