@@ -182,11 +182,11 @@
                 "id": 1350419329,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T09:29:12Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-14T11:50:39Z",
+                "open_issues": 5,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 241,
+                "stars": 245,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -443,11 +443,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-13T14:41:26Z",
-            "open_issues": 159,
+            "last_commit": "2026-09-14T18:59:18Z",
+            "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78932,
+            "stars": 78948,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -473,7 +473,7 @@
             "open_issues": 32,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36813,
+            "stars": 36820,
             "topics": [
               "awesome",
               "awesome-list",
@@ -537,7 +537,7 @@
             "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6507,
+            "stars": 6508,
             "topics": [
               "awesome",
               "awesome-list",
@@ -562,7 +562,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-12T23:58:05Z",
+            "last_commit": "2026-09-13T23:57:53Z",
             "open_issues": 10,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -601,7 +601,7 @@
             "open_issues": 31,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1687,
+            "stars": 1690,
             "topics": [
               "awesome",
               "awesome-list",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:22:39.553Z",
+    "last_updated": "2026-09-14T19:14:55.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -718,7 +718,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-09-09T16:03:09Z",
-      "open_issues": 28,
+      "open_issues": 29,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
       "stars": 404,
