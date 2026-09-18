@@ -182,11 +182,11 @@
                 "id": 1350419329,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T14:03:58Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-18T10:45:24Z",
+                "open_issues": 9,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 253,
+                "stars": 255,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -267,6 +267,47 @@
       "items": [
         {
           "node_type": "item",
+          "title": "SixSentences",
+          "description": "Self-hostable research workspace. Boolean literature searches compile to SQL against a versioned local Parquet snapshot of the corpus. Screening decisions, transformations, analyses, and manuscript claims stay linked to source and producing step. Apache-2.0, self-hosted via docker compose",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open, self-hostable research workspace for evidence, data, interviews, analysis, and writing.",
+            "homepage": "https://sixsentences.com",
+            "id": 1367243676,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-16T10:16:14Z",
+            "open_issues": 68,
+            "owner": "SixSentences",
+            "repo": "sixsentences",
+            "stars": 5,
+            "topics": [
+              "duckdb",
+              "evidence-synthesis",
+              "fastapi",
+              "literature-review",
+              "literature-search",
+              "nextjs",
+              "open-science",
+              "open-source",
+              "prisma",
+              "provenance",
+              "python",
+              "reproducible-research",
+              "research",
+              "research-data",
+              "research-software",
+              "scientific-writing",
+              "self-hosted",
+              "systematic-review",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-18T17:37:57.730Z"
+        },
+        {
+          "node_type": "item",
           "title": "Lune Research",
           "description": "MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted",
           "children": [],
@@ -277,7 +318,7 @@
             "id": 1234997973,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T20:21:01Z",
+            "last_commit": "2026-09-17T20:49:33Z",
             "open_issues": 0,
             "owner": "RetrogradeLabs",
             "repo": "lune-mcp-server",
@@ -396,7 +437,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15353,
+            "stars": 15354,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -443,11 +484,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-17T14:38:36Z",
-            "open_issues": 158,
+            "last_commit": "2026-09-18T16:20:13Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79002,
+            "stars": 79022,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -470,10 +511,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T10:37:31Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36839,
+            "stars": 36846,
             "topics": [
               "awesome",
               "awesome-list",
@@ -537,7 +578,7 @@
             "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6511,
+            "stars": 6512,
             "topics": [
               "awesome",
               "awesome-list",
@@ -562,7 +603,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-16T23:57:47Z",
+            "last_commit": "2026-09-17T23:57:48Z",
             "open_issues": 10,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -709,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:08:04.116Z",
+    "last_updated": "2026-09-18T17:37:57.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -717,7 +758,7 @@
       "id": 110871367,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-17T17:07:12Z",
+      "last_commit": "2026-09-18T01:30:48Z",
       "open_issues": 28,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
@@ -732,7 +773,7 @@
         "reproducible-workflows"
       ]
     },
-    "original_repository_sha": "f9c7c553cdfe51048c46bcf2e4e6e1d10744b213",
+    "original_repository_sha": "20a7f88e0e6b5094a5b59556cbe4f7ab491a6a96",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"
