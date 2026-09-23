@@ -182,11 +182,11 @@
                 "id": 1350419329,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T02:50:22Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-23T09:04:54Z",
+                "open_issues": 1,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -227,6 +227,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OrcaPromptVault",
+              "description": "archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The open archive of how AI agents actually work.  A versioned, verifiable archive of system prompts, developer instructions, tool schemas and agent harnesses powering today's AI products. Captured with OrcaReplay.",
+                "homepage": "https://www.orcarouter.ai",
+                "id": 1371309863,
+                "language": null,
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-21T03:23:00Z",
+                "open_issues": 0,
+                "owner": "Continuum-AI-Corp",
+                "repo": "OrcaPromptVault",
+                "stars": 25,
+                "topics": [
+                  "agent-harness",
+                  "ai-agents",
+                  "ai-transparency",
+                  "anthropic",
+                  "chatgpt",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "coding-agents",
+                  "cursor",
+                  "gemini",
+                  "grok",
+                  "llm",
+                  "openai",
+                  "opencode",
+                  "orcareplay",
+                  "prompt-archive",
+                  "prompt-engineering",
+                  "system-prompts",
+                  "tool-schemas"
+                ]
+              },
+              "first_seen": "2026-09-23T18:21:30.395Z"
             },
             {
               "node_type": "item",
@@ -437,7 +479,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15354,
+            "stars": 15355,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -484,11 +526,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-22T15:42:21Z",
+            "last_commit": "2026-09-23T17:54:03Z",
             "open_issues": 160,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79102,
+            "stars": 79120,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -511,10 +553,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T10:37:31Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36867,
+            "stars": 36875,
             "topics": [
               "awesome",
               "awesome-list",
@@ -603,7 +645,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-21T23:58:07Z",
+            "last_commit": "2026-09-22T23:57:48Z",
             "open_issues": 7,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -642,7 +684,7 @@
             "open_issues": 31,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1694,
+            "stars": 1697,
             "topics": [
               "awesome",
               "awesome-list",
@@ -750,7 +792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:03:38.624Z",
+    "last_updated": "2026-09-23T18:21:30.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -758,8 +800,8 @@
       "id": 110871367,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-19T02:30:52Z",
-      "open_issues": 28,
+      "last_commit": "2026-09-22T21:00:31Z",
+      "open_issues": 27,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
       "stars": 405,
@@ -773,7 +815,7 @@
         "reproducible-workflows"
       ]
     },
-    "original_repository_sha": "d966442b84c6a5a65c742e718d77f94495dc26ac",
+    "original_repository_sha": "1f84286e9ead15f22c434bdb3603d5d07e3426e4",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"
