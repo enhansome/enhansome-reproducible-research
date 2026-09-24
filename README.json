@@ -186,7 +186,7 @@
                 "open_issues": 1,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -244,7 +244,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 25,
+                "stars": 27,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -360,7 +360,7 @@
             "id": 1234997973,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T20:49:33Z",
+            "last_commit": "2026-09-24T00:45:59Z",
             "open_issues": 0,
             "owner": "RetrogradeLabs",
             "repo": "lune-mcp-server",
@@ -479,7 +479,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15355,
+            "stars": 15354,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -527,10 +527,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-23T17:54:03Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79120,
+            "stars": 79139,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -556,7 +556,7 @@
             "open_issues": 38,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36875,
+            "stars": 36877,
             "topics": [
               "awesome",
               "awesome-list",
@@ -593,7 +593,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T14:30:33Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
             "stars": 6628,
@@ -620,7 +620,7 @@
             "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6514,
+            "stars": 6515,
             "topics": [
               "awesome",
               "awesome-list",
@@ -645,7 +645,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-22T23:57:48Z",
+            "last_commit": "2026-09-23T23:57:54Z",
             "open_issues": 7,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -684,7 +684,7 @@
             "open_issues": 31,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1697,
+            "stars": 1698,
             "topics": [
               "awesome",
               "awesome-list",
@@ -713,7 +713,7 @@
             "open_issues": 28,
             "owner": "j-andrews7",
             "repo": "awesome-bioinformatics-benchmarks",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "benchmarking-study",
               "bioinformatics",
@@ -792,7 +792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:21:30.395Z",
+    "last_updated": "2026-09-24T18:23:08.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
