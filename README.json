@@ -183,10 +183,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T09:18:56Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -244,7 +244,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 43,
+                "stars": 46,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -319,8 +319,8 @@
             "id": 1367243676,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:24:04Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-03T14:35:56Z",
+            "open_issues": 82,
             "owner": "SixSentences",
             "repo": "sixsentences",
             "stars": 7,
@@ -479,7 +479,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15353,
+            "stars": 15354,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -530,7 +530,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79277,
+            "stars": 79292,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -556,7 +556,7 @@
             "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36949,
+            "stars": 36956,
             "topics": [
               "awesome",
               "awesome-list",
@@ -620,7 +620,7 @@
             "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6516,
+            "stars": 6515,
             "topics": [
               "awesome",
               "awesome-list",
@@ -792,7 +792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:48.976Z",
+    "last_updated": "2026-10-03T17:53:03.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -800,7 +800,7 @@
       "id": 110871367,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-22T21:00:31Z",
+      "last_commit": "2026-10-03T15:10:53Z",
       "open_issues": 27,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
@@ -815,7 +815,7 @@
         "reproducible-workflows"
       ]
     },
-    "original_repository_sha": "1f84286e9ead15f22c434bdb3603d5d07e3426e4",
+    "original_repository_sha": "100b0f4b2395084e3a0d0016e9df42fda0ea65c7",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"
