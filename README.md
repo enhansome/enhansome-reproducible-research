@@ -4557,7 +4557,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 ## Literature tools
 
-* [SixSentences](https://github.com/SixSentences/sixsentences) ⭐ 6 | 🐛 79 | 🌐 Python | 📅 2026-10-01 - Self-hostable research workspace. Boolean literature searches compile to SQL against a versioned local Parquet snapshot of the corpus. Screening decisions, transformations, analyses, and manuscript claims stay linked to source and producing step. Apache-2.0, self-hosted via docker compose
+* [SixSentences](https://github.com/SixSentences/sixsentences) ⭐ 7 | 🐛 79 | 🌐 Python | 📅 2026-10-01 - Self-hostable research workspace. Boolean literature searches compile to SQL against a versioned local Parquet snapshot of the corpus. Screening decisions, transformations, analyses, and manuscript claims stay linked to source and producing step. Apache-2.0, self-hosted via docker compose
 * [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted
 * [citeguard](https://github.com/wedo911/citeguard) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - checks whether a cited paper has been retracted, corrected, or flagged with an expression of concern, reading both publisher-asserted Crossref metadata and the Retraction Watch records Crossref backfills (which catch retractions publishers never recorded); ships as a Python library/CLI, an MCP server, and a GitHub Action so a bibliography can be checked in CI, no API key
 * [CiteVahti](https://github.com/heidihelena/citevahti) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-09-19 - local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records
@@ -4915,11 +4915,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,273 | 🐛 161 | 📅 2026-10-02 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,945 | 🐛 47 | 📅 2026-10-02 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,277 | 🐛 161 | 📅 2026-10-02 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,949 | 🐛 47 | 📅 2026-10-02 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,624 | 🐛 32 | 📅 2026-09-25 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,515 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,678 | 🐛 8 | 📅 2026-10-01 - Jupyter projects, libraries and resources
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,516 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,678 | 🐛 8 | 📅 2026-10-03 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 367 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
@@ -4938,4 +4938,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
