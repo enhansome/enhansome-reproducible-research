@@ -183,10 +183,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T09:18:56Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 275,
+                "stars": 281,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -209,27 +209,6 @@
             },
             {
               "node_type": "item",
-              "title": "BILN",
-              "description": "a lightweight, \"black box\" flight recorder for bioinformatics experiments",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Bioinformatician’s Interactive Lab Notebook (BILN) is a smart, dynamic system for tracking experiments, datasets, and workflows. Designed for bioinformaticians, it ensures reproducibility, structured logging, and AI-readiness. Export logs, collaborate seamlessly, and let BILN become your interactive companion in computational biology.",
-                "homepage": null,
-                "id": 1043387757,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-09T09:59:55Z",
-                "open_issues": 1,
-                "owner": "JimmyXtesla",
-                "repo": "BILN",
-                "stars": 57,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:31:17.439Z"
-            },
-            {
-              "node_type": "item",
               "title": "OrcaPromptVault",
               "description": "archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility",
               "children": [],
@@ -244,7 +223,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 48,
+                "stars": 65,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -269,6 +248,27 @@
                 ]
               },
               "first_seen": "2026-09-23T18:21:30.395Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BILN",
+              "description": "a lightweight, \"black box\" flight recorder for bioinformatics experiments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Bioinformatician’s Interactive Lab Notebook (BILN) is a smart, dynamic system for tracking experiments, datasets, and workflows. Designed for bioinformaticians, it ensures reproducibility, structured logging, and AI-readiness. Export logs, collaborate seamlessly, and let BILN become your interactive companion in computational biology.",
+                "homepage": null,
+                "id": 1043387757,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-09T09:59:55Z",
+                "open_issues": 1,
+                "owner": "JimmyXtesla",
+                "repo": "BILN",
+                "stars": 57,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:31:17.439Z"
             },
             {
               "node_type": "item",
@@ -319,8 +319,8 @@
             "id": 1367243676,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T14:35:56Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-05T16:26:59Z",
+            "open_issues": 86,
             "owner": "SixSentences",
             "repo": "sixsentences",
             "stars": 7,
@@ -360,7 +360,7 @@
             "id": 1234997973,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:28:01Z",
+            "last_commit": "2026-10-04T23:02:50Z",
             "open_issues": 0,
             "owner": "RetrogradeLabs",
             "repo": "lune-mcp-server",
@@ -526,11 +526,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-04T16:24:00Z",
+            "last_commit": "2026-10-05T20:37:13Z",
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79312,
+            "stars": 79318,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -553,10 +553,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T05:20:29Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36961,
+            "stars": 36967,
             "topics": [
               "awesome",
               "awesome-list",
@@ -645,11 +645,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-04T02:53:36Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-05T11:16:51Z",
+            "open_issues": 7,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4679,
+            "stars": 4680,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 31,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1701,
+            "stars": 1700,
             "topics": [
               "awesome",
               "awesome-list",
@@ -792,7 +792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:04:55.841Z",
+    "last_updated": "2026-10-05T21:28:32.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -801,10 +801,10 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-10-03T15:10:53Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
-      "stars": 406,
+      "stars": 405,
       "topics": [
         "awesome",
         "awesome-list",
