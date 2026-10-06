@@ -223,7 +223,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 65,
+                "stars": 68,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -479,7 +479,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15354,
+            "stars": 15355,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -530,7 +530,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79318,
+            "stars": 79328,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -556,7 +556,7 @@
             "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36967,
+            "stars": 36970,
             "topics": [
               "awesome",
               "awesome-list",
@@ -645,7 +645,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-05T11:16:51Z",
+            "last_commit": "2026-10-06T03:22:14Z",
             "open_issues": 7,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -792,7 +792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:28:32.015Z",
+    "last_updated": "2026-10-06T10:29:12.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
