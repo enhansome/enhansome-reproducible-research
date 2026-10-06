@@ -4604,7 +4604,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 Places to find papers with code or portals to host them
 
-* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,355 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
+* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,353 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
 * [NARPS](https://github.com/poldrack/narps) ⭐ 38 | 🐛 0 | 🌐 HTML | 📅 2025-02-26 - Code related to Neuroimaging Analysis Replication and Prediction Study
 * [Papers With Code](https://paperswithcode.com/) - ML papers with code
 * [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
@@ -4916,10 +4916,10 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,328 | 🐛 161 | 📅 2026-10-05 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,970 | 🐛 47 | 📅 2026-10-02 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,326 | 🐛 161 | 📅 2026-10-06 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,973 | 🐛 48 | 📅 2026-10-02 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,625 | 🐛 32 | 📅 2026-09-25 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,514 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,513 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
 * [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,680 | 🐛 7 | 📅 2026-10-06 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 367 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing

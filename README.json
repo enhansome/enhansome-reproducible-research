@@ -479,7 +479,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15355,
+            "stars": 15353,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -526,11 +526,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-05T20:37:13Z",
+            "last_commit": "2026-10-06T19:07:34Z",
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79328,
+            "stars": 79326,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -553,10 +553,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T05:20:29Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36970,
+            "stars": 36973,
             "topics": [
               "awesome",
               "awesome-list",
@@ -620,7 +620,7 @@
             "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6514,
+            "stars": 6513,
             "topics": [
               "awesome",
               "awesome-list",
@@ -792,7 +792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:12.286Z",
+    "last_updated": "2026-10-06T19:26:14.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
