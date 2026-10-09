@@ -130,6 +130,119 @@
             },
             {
               "node_type": "item",
+              "title": "Backtest Integrity Guard",
+              "description": "audits OHLCV integrity and causal trade timing for reproducible quantitative backtests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dependency-free Python CLI for auditing OHLCV integrity, look-ahead/execution timing, same-bar ambiguity, and frozen research inputs.",
+                "homepage": "https://suguobin2021.github.io/backtest-integrity-guard/",
+                "id": 1402970632,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-06T12:12:58Z",
+                "open_issues": 1,
+                "owner": "suguobin2021",
+                "repo": "backtest-integrity-guard",
+                "stars": 0,
+                "topics": [
+                  "algorithmic-trading",
+                  "backtesting",
+                  "cli",
+                  "data-validation",
+                  "lookahead-bias",
+                  "python",
+                  "quant",
+                  "quantitative-finance",
+                  "reproducible-research",
+                  "research-reproducibility"
+                ]
+              },
+              "first_seen": "2026-10-09T19:26:32.332Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Causal Backtest Harness",
+              "description": "Python primitives for causal signal-to-execution backtests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dependency-free Python primitives for enforcing causal signal-to-execution semantics in quantitative backtests.",
+                "homepage": null,
+                "id": 1408247955,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-07T08:18:28Z",
+                "open_issues": 3,
+                "owner": "suguobin2021",
+                "repo": "causal-backtest-harness",
+                "stars": 0,
+                "topics": [
+                  "algorithmic-trading",
+                  "backtesting",
+                  "python",
+                  "quantitative-finance",
+                  "reproducibility"
+                ]
+              },
+              "first_seen": "2026-10-09T19:26:32.332Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Canonical Ledger Schema",
+              "description": "validation for reproducible trade ledgers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Strategy-agnostic semantic validation for reproducible trade ledgers.",
+                "homepage": null,
+                "id": 1408268604,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-07T08:18:29Z",
+                "open_issues": 3,
+                "owner": "suguobin2021",
+                "repo": "canonical-ledger-schema",
+                "stars": 0,
+                "topics": [
+                  "backtesting",
+                  "data-validation",
+                  "python",
+                  "quantitative-finance",
+                  "reproducibility"
+                ]
+              },
+              "first_seen": "2026-10-09T19:26:32.332Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Strategy Stability Report",
+              "description": "diagnostics for backtest stability across time blocks, costs, and drawdowns",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dependency-free stability diagnostics for backtest trade returns.",
+                "homepage": null,
+                "id": 1408424036,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-07T08:18:31Z",
+                "open_issues": 3,
+                "owner": "suguobin2021",
+                "repo": "strategy-stability-report",
+                "stars": 0,
+                "topics": [
+                  "backtesting",
+                  "python",
+                  "quantitative-finance",
+                  "reproducibility",
+                  "risk-management"
+                ]
+              },
+              "first_seen": "2026-10-09T19:26:32.332Z"
+            },
+            {
+              "node_type": "item",
               "title": "PIT Audit Registry",
               "description": "reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers",
               "children": [],
@@ -183,7 +296,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T09:18:56Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
                 "stars": 283,
@@ -479,7 +592,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15353,
+            "stars": 15351,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -526,11 +639,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-08T15:37:23Z",
+            "last_commit": "2026-10-09T15:12:42Z",
             "open_issues": 163,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79382,
+            "stars": 79395,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -553,10 +666,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T05:20:29Z",
-            "open_issues": 48,
+            "open_issues": 50,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36987,
+            "stars": 37000,
             "topics": [
               "awesome",
               "awesome-list",
@@ -620,7 +733,7 @@
             "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6514,
+            "stars": 6515,
             "topics": [
               "awesome",
               "awesome-list",
@@ -645,7 +758,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-08T03:03:09Z",
+            "last_commit": "2026-10-09T03:09:39Z",
             "open_issues": 7,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -680,8 +793,8 @@
             "id": 71265967,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-02T18:52:28Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-09T14:31:20Z",
+            "open_issues": 30,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
             "stars": 1701,
@@ -792,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:49:05.132Z",
+    "last_updated": "2026-10-09T19:26:32.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -800,7 +913,7 @@
       "id": 110871367,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-03T15:10:53Z",
+      "last_commit": "2026-10-09T16:50:50Z",
       "open_issues": 29,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
@@ -815,7 +928,7 @@
         "reproducible-workflows"
       ]
     },
-    "original_repository_sha": "100b0f4b2395084e3a0d0016e9df42fda0ea65c7",
+    "original_repository_sha": "6330aae26ebce2f8e90e46d416481a467cc44428",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"

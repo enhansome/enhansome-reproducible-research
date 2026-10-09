@@ -4547,9 +4547,13 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 * Python
   * [auditlite](https://github.com/heidihelena/auditlite) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
   * [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-07-10 - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
+  * [Backtest Integrity Guard](https://github.com/suguobin2021/backtest-integrity-guard) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-06 - audits OHLCV integrity and causal trade timing for reproducible quantitative backtests
+  * [Causal Backtest Harness](https://github.com/suguobin2021/causal-backtest-harness) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - Python primitives for causal signal-to-execution backtests
+  * [Canonical Ledger Schema](https://github.com/suguobin2021/canonical-ledger-schema) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - validation for reproducible trade ledgers
+  * [Strategy Stability Report](https://github.com/suguobin2021/strategy-stability-report) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - diagnostics for backtest stability across time blocks, costs, and drawdowns
   * [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
 * Linux-related (polyglot)
-  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 283 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
+  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 283 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
   * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 69 | 🐛 0 | 📅 2026-10-01 - archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility
   * [BILN](https://github.com/JimmyXtesla/BILN) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - a lightweight, "black box" flight recorder for bioinformatics experiments
   * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-29 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
@@ -4604,7 +4608,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 Places to find papers with code or portals to host them
 
-* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,353 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
+* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,351 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
 * [NARPS](https://github.com/poldrack/narps) ⭐ 38 | 🐛 0 | 🌐 HTML | 📅 2025-02-26 - Code related to Neuroimaging Analysis Replication and Prediction Study
 * [Papers With Code](https://paperswithcode.com/) - ML papers with code
 * [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
@@ -4916,12 +4920,12 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,382 | 🐛 163 | 📅 2026-10-08 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,987 | 🐛 48 | 📅 2026-10-02 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,395 | 🐛 163 | 📅 2026-10-09 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,000 | 🐛 50 | 📅 2026-10-02 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,626 | 🐛 32 | 📅 2026-10-07 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,514 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,678 | 🐛 7 | 📅 2026-10-08 - Jupyter projects, libraries and resources
-* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 31 | 📅 2026-10-02 - Semantic web and linked data resources.
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,515 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,678 | 🐛 7 | 📅 2026-10-09 - Jupyter projects, libraries and resources
+* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 30 | 📅 2026-10-09 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 367 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
 * [Awesome Reproducible R](https://github.com/datasnakes/awesome-reproducible-R) ⭐ 17 | 🐛 3 | 🌐 R | 📅 2024-12-21 - RRR tools
@@ -4939,4 +4943,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
