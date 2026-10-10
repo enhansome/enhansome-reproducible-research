@@ -299,7 +299,7 @@
                 "open_issues": 2,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 283,
+                "stars": 282,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -336,7 +336,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 69,
+                "stars": 71,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -592,7 +592,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15351,
+            "stars": 15352,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -639,11 +639,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-09T15:12:42Z",
+            "last_commit": "2026-10-09T20:09:46Z",
             "open_issues": 163,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79395,
+            "stars": 79416,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -669,7 +669,7 @@
             "open_issues": 50,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37000,
+            "stars": 37006,
             "topics": [
               "awesome",
               "awesome-list",
@@ -758,11 +758,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-09T03:09:39Z",
+            "last_commit": "2026-10-10T02:49:05Z",
             "open_issues": 7,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4678,
+            "stars": 4677,
             "topics": [
               "awesome",
               "awesome-list",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:26:32.332Z",
+    "last_updated": "2026-10-10T18:27:07.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
