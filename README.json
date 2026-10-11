@@ -299,7 +299,7 @@
                 "open_issues": 2,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 282,
+                "stars": 283,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -592,7 +592,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15352,
+            "stars": 15350,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -643,7 +643,7 @@
             "open_issues": 163,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79416,
+            "stars": 79428,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -669,7 +669,7 @@
             "open_issues": 50,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37006,
+            "stars": 37012,
             "topics": [
               "awesome",
               "awesome-list",
@@ -706,7 +706,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-07T16:41:29Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
             "stars": 6626,
@@ -758,11 +758,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-10T02:49:05Z",
+            "last_commit": "2026-10-11T02:17:16Z",
             "open_issues": 7,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4677,
+            "stars": 4678,
             "topics": [
               "awesome",
               "awesome-list",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:27:07.959Z",
+    "last_updated": "2026-10-11T18:46:33.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
