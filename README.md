@@ -4552,8 +4552,9 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [Canonical Ledger Schema](https://github.com/suguobin2021/canonical-ledger-schema) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - validation for reproducible trade ledgers
   * [Strategy Stability Report](https://github.com/suguobin2021/strategy-stability-report) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - diagnostics for backtest stability across time blocks, costs, and drawdowns
   * [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
+  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-09 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
 * Linux-related (polyglot)
-  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 285 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
+  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 284 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
   * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 72 | 🐛 0 | 📅 2026-10-01 - archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility
   * [BILN](https://github.com/JimmyXtesla/BILN) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - a lightweight, "black box" flight recorder for bioinformatics experiments
   * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-29 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
@@ -4920,11 +4921,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,456 | 🐛 164 | 📅 2026-10-09 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,020 | 🐛 51 | 📅 2026-10-02 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,476 | 🐛 164 | 📅 2026-10-13 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,026 | 🐛 52 | 📅 2026-10-02 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,626 | 🐛 32 | 📅 2026-10-11 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,517 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,676 | 🐛 7 | 📅 2026-10-12 - Jupyter projects, libraries and resources
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,519 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,676 | 🐛 7 | 📅 2026-10-13 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 42 | 📅 2026-10-09 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 367 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
@@ -4943,4 +4944,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
