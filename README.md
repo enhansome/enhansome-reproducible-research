@@ -4552,7 +4552,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [Canonical Ledger Schema](https://github.com/suguobin2021/canonical-ledger-schema) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - validation for reproducible trade ledgers
   * [Strategy Stability Report](https://github.com/suguobin2021/strategy-stability-report) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - diagnostics for backtest stability across time blocks, costs, and drawdowns
   * [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
-  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-09 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
+  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-14 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
 * Linux-related (polyglot)
   * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 284 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
   * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 72 | 🐛 0 | 📅 2026-10-01 - archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility
@@ -4572,11 +4572,11 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 ## Scientific Data Management Systems
 
+* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-14 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
 * [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
 * [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
 * [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
 * [Fairly Toolset](https://fairly.readthedocs.io) - Tools for preparing, publishing and downloading datasets from research data repositories directly into computing environments. It provides integration with [Zenodo](https://fairly.readthedocs.io) and [Figshare](https://figshare.com/).
-* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
 
 ## Books
 
@@ -4592,6 +4592,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 <!-- broken link - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.-->
 
+* [Extremal Values Registry](https://github.com/extremal-values-registry/extremal-values-registry) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-13 - Sourced, dated best-known values for 322 extremal problems, plus an audit finding 69 of 268 AI-math benchmark targets stale or malformed. Benchmarks can cite an entry id instead of a hard-coded number.
 * [ReplicationDatabase](https://metaanalyses.shinyapps.io/replicationdatabase/) - 1211 replication findings on 333 psychology studies
 * [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly measurement series built to stay checkable: each record has a versioned methodology and snapshot id, inputs are hash-pinned with provenance, corrections append rather than edit, and the archive folds into a weekly Merkle root anyone can recompute from a published script.
 
@@ -4921,12 +4922,12 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,476 | 🐛 164 | 📅 2026-10-13 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,026 | 🐛 52 | 📅 2026-10-02 - Everything related to the Docker containerization system
-* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,626 | 🐛 32 | 📅 2026-10-11 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,519 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,676 | 🐛 7 | 📅 2026-10-13 - Jupyter projects, libraries and resources
-* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 42 | 📅 2026-10-09 - Semantic web and linked data resources.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,485 | 🐛 165 | 📅 2026-10-14 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,032 | 🐛 52 | 📅 2026-10-02 - Everything related to the Docker containerization system
+* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,627 | 🐛 31 | 📅 2026-10-11 - So many pipelines frameworks
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,520 | 🐛 28 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,676 | 🐛 7 | 📅 2026-10-14 - Jupyter projects, libraries and resources
+* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,702 | 🐛 42 | 📅 2026-10-09 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 367 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 51 | 🐛 2 | 📅 2023-09-27 - Resources, data, tools, and scholarship
 * [Awesome Reproducible R](https://github.com/datasnakes/awesome-reproducible-R) ⭐ 17 | 🐛 3 | 🌐 R | 📅 2024-12-21 - RRR tools
@@ -4944,4 +4945,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
