@@ -288,7 +288,7 @@
                 "id": 1358113610,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T16:10:27Z",
+                "last_commit": "2026-10-18T20:12:42Z",
                 "open_issues": 3,
                 "owner": "luizfnsilva",
                 "repo": "closure_drift",
@@ -377,7 +377,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -473,7 +473,7 @@
             "id": 1367243676,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T13:40:11Z",
+            "last_commit": "2026-10-19T03:45:23Z",
             "open_issues": 85,
             "owner": "SixSentences",
             "repo": "sixsentences",
@@ -677,7 +677,7 @@
             "id": 1416195901,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T23:42:45Z",
+            "last_commit": "2026-10-19T15:30:37Z",
             "open_issues": 0,
             "owner": "extremal-values-registry",
             "repo": "extremal-values-registry",
@@ -719,7 +719,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15354,
+            "stars": 15352,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -766,11 +766,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-14T18:18:24Z",
+            "last_commit": "2026-10-19T17:54:00Z",
             "open_issues": 165,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79600,
+            "stars": 79632,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -796,7 +796,7 @@
             "open_issues": 58,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37063,
+            "stars": 37069,
             "topics": [
               "awesome",
               "awesome-list",
@@ -836,7 +836,7 @@
             "open_issues": 31,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6626,
+            "stars": 6627,
             "topics": [
               "awesome-list",
               "workflow"
@@ -860,7 +860,7 @@
             "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6524,
+            "stars": 6525,
             "topics": [
               "awesome",
               "awesome-list",
@@ -885,11 +885,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-18T01:35:25Z",
+            "last_commit": "2026-10-19T01:52:32Z",
             "open_issues": 8,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4678,
+            "stars": 4679,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:15:02.265Z",
+    "last_updated": "2026-10-19T19:46:55.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
