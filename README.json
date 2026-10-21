@@ -340,7 +340,7 @@
                 "open_issues": 2,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -473,8 +473,8 @@
             "id": 1367243676,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T11:40:14Z",
-            "open_issues": 86,
+            "last_commit": "2026-10-21T14:27:58Z",
+            "open_issues": 90,
             "owner": "SixSentences",
             "repo": "sixsentences",
             "stars": 7,
@@ -719,7 +719,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15352,
+            "stars": 15355,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -766,11 +766,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-20T17:04:40Z",
+            "last_commit": "2026-10-21T15:19:58Z",
             "open_issues": 165,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79648,
+            "stars": 79664,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -793,10 +793,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T20:59:56Z",
-            "open_issues": 59,
+            "open_issues": 61,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37072,
+            "stars": 37078,
             "topics": [
               "awesome",
               "awesome-list",
@@ -860,7 +860,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6525,
+            "stars": 6526,
             "topics": [
               "awesome",
               "awesome-list",
@@ -885,7 +885,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-20T02:10:53Z",
+            "last_commit": "2026-10-21T02:04:49Z",
             "open_issues": 9,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:25:26.215Z",
+    "last_updated": "2026-10-21T18:32:41.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
