@@ -4563,7 +4563,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 ## Literature tools
 
 * [SixSentences](https://github.com/SixSentences/sixsentences) ⭐ 7 | 🐛 88 | 🌐 Python | 📅 2026-10-22 - Self-hostable research workspace. Boolean literature searches compile to SQL against a versioned local Parquet snapshot of the corpus. Screening decisions, transformations, analyses, and manuscript claims stay linked to source and producing step. Apache-2.0, self-hosted via docker compose
-* [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-22 - MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted
+* [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted
 * [citeguard](https://github.com/wedo911/citeguard) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - checks whether a cited paper has been retracted, corrected, or flagged with an expression of concern, reading both publisher-asserted Crossref metadata and the Retraction Watch records Crossref backfills (which catch retractions publishers never recorded); ships as a Python library/CLI, an MCP server, and a GitHub Action so a bibliography can be checked in CI, no API key
 * [CiteVahti](https://github.com/heidihelena/citevahti) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-21 - local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records
 * [CiteMe](https://citeme.app) - free tool that flags fabricated or hallucinated references by verifying whether each cited work actually exists across 11+ scholarly databases; also generates and formats citations in 40+ styles, no sign-up
@@ -4610,7 +4610,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 Places to find papers with code or portals to host them
 
-* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,354 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
+* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,353 | 🐛 46 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
 * [NARPS](https://github.com/poldrack/narps) ⭐ 38 | 🐛 0 | 🌐 HTML | 📅 2025-02-26 - Code related to Neuroimaging Analysis Replication and Prediction Study
 * [Papers With Code](https://paperswithcode.com/) - ML papers with code
 * [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
@@ -4922,11 +4922,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,707 | 🐛 165 | 📅 2026-10-22 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,095 | 🐛 64 | 📅 2026-10-14 - Everything related to the Docker containerization system
-* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,629 | 🐛 31 | 📅 2026-10-11 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,526 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,682 | 🐛 10 | 📅 2026-10-23 - Jupyter projects, libraries and resources
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,718 | 🐛 165 | 📅 2026-10-22 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,100 | 🐛 66 | 📅 2026-10-14 - Everything related to the Docker containerization system
+* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,631 | 🐛 31 | 📅 2026-10-11 - So many pipelines frameworks
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,527 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,683 | 🐛 10 | 📅 2026-10-24 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,704 | 🐛 45 | 📅 2026-10-09 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 367 | 🐛 28 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 50 | 🐛 3 | 📅 2023-09-27 - Resources, data, tools, and scholarship
@@ -4945,4 +4945,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
