@@ -59,6 +59,48 @@
           "children": [
             {
               "node_type": "item",
+              "title": "mojolearn",
+              "description": "GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GPU machine learning in Mojo that supports bitwise identical inference and training on Apple Metal, NVIDIA CUDA and AMD HIP.",
+                "homepage": "https://mojolearn.org",
+                "id": 1340747000,
+                "language": "Mojo",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-25T17:25:31Z",
+                "open_issues": 0,
+                "owner": "mojolearn",
+                "repo": "mojolearn",
+                "stars": 10,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "attention",
+                  "bitwise-identical",
+                  "cuda",
+                  "decision-trees",
+                  "deep-learning",
+                  "gbdt",
+                  "gpu",
+                  "gradient-boosting",
+                  "machine-learning",
+                  "mamba",
+                  "metal",
+                  "mojo",
+                  "neural-networks",
+                  "reproducibility",
+                  "rocm",
+                  "samba",
+                  "state-space-models",
+                  "transformer"
+                ]
+              },
+              "first_seen": "2026-10-25T17:34:55.890Z"
+            },
+            {
+              "node_type": "item",
               "title": "closure_drift",
               "description": "Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous",
               "children": [],
@@ -340,7 +382,7 @@
                 "open_issues": 2,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 281,
+                "stars": 282,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -452,6 +494,27 @@
                 ]
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
+            },
+            {
+              "node_type": "item",
+              "title": "K-Veritas",
+              "description": "wraps any experiment command and seals its results with the code, hardware and time that produced them in a signed report anyone can verify, without re-running the code (docs, releases, source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pre-built K-Veritas CLI binaries for all platforms",
+                "homepage": null,
+                "id": 1197691273,
+                "language": "Shell",
+                "license": null,
+                "last_commit": "2026-10-25T04:57:51Z",
+                "open_issues": 0,
+                "owner": "27-GROUP",
+                "repo": "kveritas-releases",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T17:34:55.890Z"
             }
           ]
         }
@@ -514,7 +577,7 @@
             "id": 1234997973,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T07:32:08Z",
+            "last_commit": "2026-10-24T21:29:30Z",
             "open_issues": 0,
             "owner": "RetrogradeLabs",
             "repo": "lune-mcp-server",
@@ -583,8 +646,8 @@
             "id": 1257383434,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T20:05:26Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-24T23:53:43Z",
+            "open_issues": 5,
             "owner": "heidihelena",
             "repo": "citevahti",
             "stars": 1,
@@ -719,7 +782,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15353,
+            "stars": 15354,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -770,7 +833,7 @@
             "open_issues": 165,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79718,
+            "stars": 79740,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -793,10 +856,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T20:59:56Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37100,
+            "stars": 37107,
             "topics": [
               "awesome",
               "awesome-list",
@@ -860,7 +923,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6527,
+            "stars": 6529,
             "topics": [
               "awesome",
               "awesome-list",
@@ -885,11 +948,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-24T02:01:46Z",
+            "last_commit": "2026-10-25T01:48:09Z",
             "open_issues": 10,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4683,
+            "stars": 4685,
             "topics": [
               "awesome",
               "awesome-list",
@@ -924,7 +987,7 @@
             "open_issues": 45,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1704,
+            "stars": 1705,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1032,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:21:23.265Z",
+    "last_updated": "2026-10-25T17:34:55.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -1040,8 +1103,8 @@
       "id": 110871367,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-14T02:09:38Z",
-      "open_issues": 31,
+      "last_commit": "2026-10-25T15:07:56Z",
+      "open_issues": 29,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
       "stars": 407,
@@ -1055,7 +1118,7 @@
         "reproducible-workflows"
       ]
     },
-    "original_repository_sha": "795d7efa0ced0427847b182f840aaf939186d780",
+    "original_repository_sha": "e5b679d82be9fd9d333eed68ce507effe2b104a3",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"
