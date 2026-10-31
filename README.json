@@ -69,7 +69,7 @@
                 "id": 1340747000,
                 "language": "Mojo",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T19:09:02Z",
+                "last_commit": "2026-10-31T18:06:36Z",
                 "open_issues": 0,
                 "owner": "mojolearn",
                 "repo": "mojolearn",
@@ -111,11 +111,11 @@
                 "id": 1423681242,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T09:05:13Z",
+                "last_commit": "2026-10-31T13:34:10Z",
                 "open_issues": 19,
                 "owner": "hayagrivai-labs",
                 "repo": "sciproof",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "artifact-evaluation",
                   "beginners",
@@ -153,7 +153,7 @@
                 "id": 1358113610,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T14:36:25Z",
+                "last_commit": "2026-10-30T19:49:01Z",
                 "open_issues": 4,
                 "owner": "luizfnsilva",
                 "repo": "closure_drift",
@@ -425,7 +425,7 @@
                 "open_issues": 2,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 287,
+                "stars": 291,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -462,7 +462,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 81,
+                "stars": 83,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -735,7 +735,7 @@
             "id": 1219809014,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T17:27:49Z",
+            "last_commit": "2026-10-31T12:02:21Z",
             "open_issues": 0,
             "owner": "studio-11-co",
             "repo": "falsify",
@@ -822,10 +822,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-09T16:05:40Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15352,
+            "stars": 15351,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -876,7 +876,7 @@
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79858,
+            "stars": 79874,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -899,10 +899,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T20:59:56Z",
-            "open_issues": 74,
+            "open_issues": 76,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37141,
+            "stars": 37147,
             "topics": [
               "awesome",
               "awesome-list",
@@ -942,7 +942,7 @@
             "open_issues": 31,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6630,
+            "stars": 6629,
             "topics": [
               "awesome-list",
               "workflow"
@@ -991,7 +991,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-30T03:00:53Z",
+            "last_commit": "2026-10-31T02:47:59Z",
             "open_issues": 13,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:09:27.110Z",
+    "last_updated": "2026-10-31T18:26:27.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
