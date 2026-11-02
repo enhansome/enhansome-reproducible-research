@@ -69,8 +69,8 @@
                 "id": 1340747000,
                 "language": "Mojo",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T13:17:08Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-02T22:39:22Z",
+                "open_issues": 1,
                 "owner": "mojolearn",
                 "repo": "mojolearn",
                 "stars": 10,
@@ -112,7 +112,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T15:38:50Z",
-                "open_issues": 38,
+                "open_issues": 40,
                 "owner": "hayagrivai-labs",
                 "repo": "sciproof",
                 "stars": 8,
@@ -153,7 +153,7 @@
                 "id": 1358113610,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T19:49:01Z",
+                "last_commit": "2026-11-02T21:02:25Z",
                 "open_issues": 4,
                 "owner": "luizfnsilva",
                 "repo": "closure_drift",
@@ -253,6 +253,36 @@
                 ]
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
+            },
+            {
+              "node_type": "item",
+              "title": "debt-verify",
+              "description": "a decision-procedure repo where the number of decisions the data actually supports is reported alongside the coverage that justifies it",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Verifiable execution of sovereign debt restructuring clauses under data revision",
+                "homepage": null,
+                "id": 1405015543,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-05T03:00:25Z",
+                "open_issues": 0,
+                "owner": "ZhangYangyi03",
+                "repo": "debt-verify",
+                "stars": 0,
+                "topics": [
+                  "computational-complexity",
+                  "conformal-prediction",
+                  "debt-restructuring",
+                  "formal-verification",
+                  "imf",
+                  "kleene-logic",
+                  "sovereign-debt",
+                  "three-valued-logic"
+                ]
+              },
+              "first_seen": "2026-11-02T22:42:14.518Z"
             },
             {
               "node_type": "item",
@@ -425,7 +455,7 @@
                 "open_issues": 2,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 294,
+                "stars": 296,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -462,7 +492,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 83,
+                "stars": 85,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -579,8 +609,8 @@
             "id": 1367243676,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T06:05:59Z",
-            "open_issues": 90,
+            "last_commit": "2026-11-02T04:36:05Z",
+            "open_issues": 91,
             "owner": "SixSentences",
             "repo": "sixsentences",
             "stars": 7,
@@ -735,9 +765,9 @@
             "id": 1219809014,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T12:02:21Z",
+            "last_commit": "2026-11-01T21:26:32Z",
             "open_issues": 0,
-            "owner": "studio-11-co",
+            "owner": "falsify-dev",
             "repo": "falsify",
             "stars": 8,
             "topics": [
@@ -783,7 +813,7 @@
             "id": 1416195901,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T12:35:14Z",
+            "last_commit": "2026-11-02T15:16:20Z",
             "open_issues": 0,
             "owner": "extremal-values-registry",
             "repo": "extremal-values-registry",
@@ -825,7 +855,7 @@
             "open_issues": 49,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15351,
+            "stars": 15350,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -846,7 +876,7 @@
             "open_issues": 0,
             "owner": "poldrack",
             "repo": "narps",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "neuroimaging",
               "reproducibility"
@@ -872,11 +902,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-28T16:46:19Z",
+            "last_commit": "2026-11-02T19:34:27Z",
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79895,
+            "stars": 79917,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -899,10 +929,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T15:05:15Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37148,
+            "stars": 37160,
             "topics": [
               "awesome",
               "awesome-list",
@@ -966,7 +996,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6537,
+            "stars": 6539,
             "topics": [
               "awesome",
               "awesome-list",
@@ -991,11 +1021,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-01T02:40:33Z",
+            "last_commit": "2026-11-02T02:49:02Z",
             "open_issues": 12,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4687,
+            "stars": 4690,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1138,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:51:26.389Z",
+    "last_updated": "2026-11-02T22:42:14.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -1146,8 +1176,8 @@
       "id": 110871367,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-28T12:50:08Z",
-      "open_issues": 30,
+      "last_commit": "2026-11-02T15:09:05Z",
+      "open_issues": 29,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
       "stars": 409,
@@ -1161,7 +1191,7 @@
         "reproducible-workflows"
       ]
     },
-    "original_repository_sha": "e416d529e71653524238b3d543793f07f21cd1fa",
+    "original_repository_sha": "6e81406cc16049ad1c519b4dec875b185d9ac8ec",
     "enhanced_repository": "enhansome/enhansome-reproducible-research",
     "enhanced_repository_description": null,
     "title": "Awesome Reproducible Research with stars"

@@ -510,7 +510,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					<td>
 						<p>
 						        Biological sciences
-						<p>
+						</p>
 					</td>
 					<td>
 						<p>
@@ -725,28 +725,6 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://doi.org/10.1371/journal.pone.0213013">Madduri et al <meta property="datePublished" content="2019-04-09">2018</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							Genomics
-						</p>
-					</td>
-					<td>
-						<p>
-							Case narrative
-						</p>
-					</td>
-					<td>
-						<p>
-							1 study
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p>
 							<a href="https://doi.org/10.1038/s41562-018-0399-z">Camerer et al <meta property="datePublished" content="2018-08-27">2018</a>
 						</p>
 					</td>
@@ -923,7 +901,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://amid.fish/reproducing-deep-rl">Rahtz <meta property="datePublished" content="2018-04-06">2018<a>
+							<a href="http://amid.fish/reproducing-deep-rl">Rahtz <meta property="datePublished" content="2018-04-06">2018</a>
 								</p>
 								</td>
 							<td>
@@ -935,12 +913,12 @@ The term "case studies" is used here in a general sense to describe any study of
 								<p>
 									Reproduction, case narrative
 								</p>
+							</td>
 							<td>
 								<p>
 									1 paper
 								</p>
 							</td>
-						</p>
 				</tr>
 				<tr>
 					<td>
@@ -1170,7 +1148,7 @@ The term "case studies" is used here in a general sense to describe any study of
 								<tr>
 					<td>
 						<p>
-							<span title="Creating reproducible pharmacogenomic analysis pipelines"><a href="10.1038/s41597-019-0174-7">Mammoliti
+							<span title="Creating reproducible pharmacogenomic analysis pipelines"><a href="https://doi.org/10.1038/s41597-019-0174-7">Mammoliti
 								et al <meta property="datePublished" content="2019-09-03">2019</a></span>
 						</p>
 					</td>
@@ -2016,6 +1994,28 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3001107"><span title="Assessment of transparency indicators across the biomedical literature: How open is open?">Serghiou et al <meta property="datePublished" content="2021-03-01">2021</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biomedical sciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							2.75 million articles
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.31222/osf.io/cd5j9">Breznau et al
 							<meta property="datePublished" content="2021-03-24">2021</a>
 						</p>
@@ -2247,6 +2247,28 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.7554/eLife.78518"><span title="Epidemiological characteristics and prevalence rates of research reproducibility across disciplines: A scoping review of articles published in 2018-2019">Cobey et al <meta property="datePublished" content="2023-06-21">2023</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Multidisciplinary
+						</p>
+					</td>
+					<td>
+						<p>
+							Scoping review
+						</p>
+					</td>
+					<td>
+						<p>
+							47 papers, 177 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1038/s41586-023-06246-4"><span title="Leakage and the reproducibility crisis in machine-learning-based science">Kapoor & Narayanan <meta property="datePublished" content="2023-07-19">2023</span></a>
 						</p>
 					</td>
@@ -2451,7 +2473,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/http://dx.doi.org/10.2139/ssrn.4790780">Brodeur et al
+							<a href="https://doi.org/10.2139/ssrn.4790780">Brodeur et al
 							<meta property="datePublished" content="2024-04-11">2024</a>
 						</p>
 					</td>
@@ -3043,7 +3065,7 @@ https://doi.org/10.1186/s40168-018-0575-4
 						</p>
 					</td>
 				</tr>
-				<tr><td><p><a href="https://open.substack.com/pub/nerdychitchat/p/replicating-my-favorite-papers-caf?utm_campaign=post-expanded-share&utm_medium=web">Replicating My Favorite Papers: CAF subtyping in NSCLC<a></p></td>
+				<tr><td><p><a href="https://open.substack.com/pub/nerdychitchat/p/replicating-my-favorite-papers-caf?utm_campaign=post-expanded-share&utm_medium=web">Replicating My Favorite Papers: CAF subtyping in NSCLC</a></p></td>
 				<td><a href="https://www.nature.com/articles/s41416-024-02671-1">Cancer-associated fibroblasts expressing fibroblast activation protein and podoplanin in non-small cell lung cancer predict poor clinical outcome</a></td>
 				</tr>
 				<tr><td><p><a href="https://edisonscientific.com/articles/edison-analysis-agent-reproduces-key-findings-on-cag-repeat-expansions-in-huntingtons-disease">Edison Analysis Agent reproduces key findings on CAG-repeat expansions in Huntington's disease</a></p></td>
@@ -3212,7 +3234,7 @@ https://doi.org/10.1186/s40168-018-0575-4
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1038/s41567-019-0780-5">Milton & Possolo <meta property="datePublished" content="2019-06-09">2019</a>
+						<p><a href="https://doi.org/10.1038/s41567-019-0780-5">Milton & Possolo <meta property="datePublished" content="2019-06-09">2019</a></p>
 	</td><td>
 						<p><span title="Lack of reproducibility is not necessarily bad news; it may herald new discoveries and signal scientifc progress">Trustworthy data underpin reproducible research</span></p>
 	</td>
@@ -4388,6 +4410,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 				<p>
 					<span title="Even machine learning experiments that are fully conducted on computers are not necessarily reproducible. An increasing number of open source and commercial, closed source machine learning platforms are being developed that help address this problem. However, there is no standard for assessing and comparing which features are required to fully support repro-ducibility. We propose a quantitative method that alleviates this problem. Based on the proposed method we assess and compare the current state of the art machine learning platforms for how well they support making empirical results reproducible. Our results show that BEAT and Floydhub have the best support for reproducibility with Codalab and Kaggle as close contenders. The most commonly used machine learning platforms provided by the big tech companies have poor support for reproducibility.">Out-of-the-box Reproducibility: A Survey of Machine Learning Platforms</span>
 				</p>
+			</td>
 			<td>
 				<p>
 					MLflow, Polyaxon, StudioML, Kubeflow, CometML, Sagemaker, GCPML, AzureML, Floydhub, BEAT, Codalab, Kaggle
@@ -4412,7 +4435,6 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 						</p>
 					</td>
 				</tr>
-                                    		</tr>
                                     				<tr>
                                     					<td>
                                     						<p>
@@ -4545,19 +4567,20 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
   * [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
 * Python
-  * [mojolearn](https://github.com/mojolearn/mojolearn) ⭐ 10 | 🐛 0 | 🌐 Mojo | 📅 2026-11-01 - GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.
-  * [SciProof](https://github.com/hayagrivai-labs/sciproof) ⭐ 8 | 🐛 38 | 🌐 Python | 📅 2026-11-01 - Records computational experiments and creates machine-verifiable evidence manifests: integrity hashes, opt-in re-execution, numerical tolerances, and direct LaTeX macro exports for paper drafts
-  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-10-30 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
+  * [mojolearn](https://github.com/mojolearn/mojolearn) ⭐ 10 | 🐛 1 | 🌐 Mojo | 📅 2026-11-02 - GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.
+  * [SciProof](https://github.com/hayagrivai-labs/sciproof) ⭐ 8 | 🐛 40 | 🌐 Python | 📅 2026-11-01 - Records computational experiments and creates machine-verifiable evidence manifests: integrity hashes, opt-in re-execution, numerical tolerances, and direct LaTeX macro exports for paper drafts
+  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-11-02 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
   * [auditlite](https://github.com/heidihelena/auditlite) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
   * [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-07-10 - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
+  * [debt-verify](https://github.com/ZhangYangyi03/debt-verify) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - a decision-procedure repo where the number of decisions the data actually supports is reported alongside the coverage that justifies it
   * [Backtest Integrity Guard](https://github.com/suguobin2021/backtest-integrity-guard) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-12 - audits OHLCV integrity and causal trade timing for reproducible quantitative backtests
   * [Causal Backtest Harness](https://github.com/suguobin2021/causal-backtest-harness) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - Python primitives for causal signal-to-execution backtests
   * [Canonical Ledger Schema](https://github.com/suguobin2021/canonical-ledger-schema) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - validation for reproducible trade ledgers
   * [Strategy Stability Report](https://github.com/suguobin2021/strategy-stability-report) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - diagnostics for backtest stability across time blocks, costs, and drawdowns
   * [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
 * Linux-related (polyglot)
-  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 294 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
-  * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 83 | 🐛 0 | 📅 2026-10-01 - archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility
+  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 296 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
+  * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 85 | 🐛 0 | 📅 2026-10-01 - archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility
   * [BILN](https://github.com/JimmyXtesla/BILN) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - a lightweight, "black box" flight recorder for bioinformatics experiments
   * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-29 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
   * [K-Veritas](https://kveritas.org) - wraps any experiment command and seals its results with the code, hardware and time that produced them in a signed report anyone can verify, without re-running the code ([docs](https://kveritas.org/docs/index.html), [releases](https://github.com/27-GROUP/kveritas-releases) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-10-27, [source](https://github.com/27-GROUP/kveritas-go) ⭐ 12 | 🐛 0 | 🌐 Go | 📅 2026-10-27)
@@ -4565,7 +4588,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 ## Literature tools
 
-* [SixSentences](https://github.com/SixSentences/sixsentences) ⭐ 7 | 🐛 90 | 🌐 Python | 📅 2026-11-01 - Self-hostable research workspace. Boolean literature searches compile to SQL against a versioned local Parquet snapshot of the corpus. Screening decisions, transformations, analyses, and manuscript claims stay linked to source and producing step. Apache-2.0, self-hosted via docker compose
+* [SixSentences](https://github.com/SixSentences/sixsentences) ⭐ 7 | 🐛 91 | 🌐 Python | 📅 2026-11-02 - Self-hostable research workspace. Boolean literature searches compile to SQL against a versioned local Parquet snapshot of the corpus. Screening decisions, transformations, analyses, and manuscript claims stay linked to source and producing step. Apache-2.0, self-hosted via docker compose
 * [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30 - MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted
 * [citeguard](https://github.com/wedo911/citeguard) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - checks whether a cited paper has been retracted, corrected, or flagged with an expression of concern, reading both publisher-asserted Crossref metadata and the Retraction Watch records Crossref backfills (which catch retractions publishers never recorded); ships as a Python library/CLI, an MCP server, and a GitHub Action so a bibliography can be checked in CI, no API key
 * [CiteVahti](https://github.com/heidihelena/citevahti) ⭐ 1 | 🐛 5 | 🌐 Python | 📅 2026-10-24 - local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records
@@ -4575,7 +4598,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 ## Scientific Data Management Systems
 
-* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-31 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
+* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-11-01 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
 * [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
 * [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
 * [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
@@ -4595,7 +4618,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 <!-- broken link - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.-->
 
-* [Extremal Values Registry](https://github.com/extremal-values-registry/extremal-values-registry) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - Sourced, dated best-known values for 322 extremal problems, plus an audit finding 69 of 268 AI-math benchmark targets stale or malformed. Benchmarks can cite an entry id instead of a hard-coded number.
+* [Extremal Values Registry](https://github.com/extremal-values-registry/extremal-values-registry) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Sourced, dated best-known values for 322 extremal problems, plus an audit finding 69 of 268 AI-math benchmark targets stale or malformed. Benchmarks can cite an entry id instead of a hard-coded number.
 * [ReplicationDatabase](https://metaanalyses.shinyapps.io/replicationdatabase/) - 1211 replication findings on 333 psychology studies
 * [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly measurement series built to stay checkable: each record has a versioned methodology and snapshot id, inputs are hash-pinned with provenance, corrections append rather than edit, and the archive folds into a weekly Merkle root anyone can recompute from a published script.
 
@@ -4613,8 +4636,8 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 Places to find papers with code or portals to host them
 
-* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,351 | 🐛 49 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
-* [NARPS](https://github.com/poldrack/narps) ⭐ 38 | 🐛 0 | 🌐 HTML | 📅 2025-02-26 - Code related to Neuroimaging Analysis Replication and Prediction Study
+* [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,350 | 🐛 49 | 🌐 Python | 📅 2026-07-09 - Gallery of interesting Jupyter notebooks
+* [NARPS](https://github.com/poldrack/narps) ⭐ 39 | 🐛 0 | 🌐 HTML | 📅 2025-02-26 - Code related to Neuroimaging Analysis Replication and Prediction Study
 * [Papers With Code](https://paperswithcode.com/) - ML papers with code
 * [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
 
@@ -4692,7 +4715,7 @@ Experimental papers that have associated notebooks
     </tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1093/bib/bbab294">Sharifi-Noghabi et al Drug sensitivity prediction from cell line-based pharmacogenomics data: guidelines for developing machine learning models
+							<a href="https://doi.org/10.1093/bib/bbab294">Sharifi-Noghabi et al Drug sensitivity prediction from cell line-based pharmacogenomics data: guidelines for developing machine learning models</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/7358839">codeocean.com/capsule/7358839</a>
@@ -4700,7 +4723,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1016/j.phro.2021.04.001">Arrowsmith et al Automated detection of dental artifacts for large-scale radiomic analysis in radiation oncology
+							<a href="https://doi.org/10.1016/j.phro.2021.04.001">Arrowsmith et al Automated detection of dental artifacts for large-scale radiomic analysis in radiation oncology</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/2097894">codeocean.com/capsule/2097894</a>
@@ -4708,7 +4731,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1038/s41467-021-21233-0">Mer et al Biological and therapeutic implications of a unique subtype of NPM1 mutated AML
+							<a href="https://doi.org/10.1038/s41467-021-21233-0">Mer et al Biological and therapeutic implications of a unique subtype of NPM1 mutated AML</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/8791617">codeocean.com/capsule/8791617</a>
@@ -4716,7 +4739,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1101/2020.09.08.287573">Ortmann et al KuLGaP: A Selective Measure for Assessing Therapy Response in Patient-Derived Xenografts
+							<a href="https://doi.org/10.1101/2020.09.08.287573">Ortmann et al KuLGaP: A Selective Measure for Assessing Therapy Response in Patient-Derived Xenografts</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/2817911">codeocean.com/capsule/2817911</a>
@@ -4724,7 +4747,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1038/s41467-020-20830-9">Madani Tonekaboni et al Large organized chromatin lysine domains help distinguish primitive from differentiated cell populations
+							<a href="https://doi.org/10.1038/s41467-020-20830-9">Madani Tonekaboni et al Large organized chromatin lysine domains help distinguish primitive from differentiated cell populations</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6911149">codeocean.com/capsule/6911149</a>
@@ -4732,7 +4755,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1093/nar/gkaa421">Seo et al SYNERGxDB: an integrative pharmacogenomic portal to identify synergistic drug combinations for precision oncology
+							<a href="https://doi.org/10.1093/nar/gkaa421">Seo et al SYNERGxDB: an integrative pharmacogenomic portal to identify synergistic drug combinations for precision oncology</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6322807">codeocean.com/capsule/6322807</a>
@@ -4740,7 +4763,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1038/s41597-019-0174-7">Mammoliti et al Creating reproducible pharmacogenomic analysis pipelines
+							<a href="https://doi.org/10.1038/s41597-019-0174-7">Mammoliti et al Creating reproducible pharmacogenomic analysis pipelines</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6718332">codeocean.com/capsule/6718332</a>
@@ -4748,7 +4771,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0179">Manem et al Modeling Cellular Response in Large-Scale Radiogenomic Databases to Advance Precision Radiotherapy
+							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0179">Manem et al Modeling Cellular Response in Large-Scale Radiogenomic Databases to Advance Precision Radiotherapy</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/1166221">codeocean.com/capsule/1166221</a>
@@ -4756,7 +4779,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1101/222562">Tonekaboni et al CREAM: Clustering of genomic REgions Analysis Method
+							<a href="https://doi.org/10.1101/222562">Tonekaboni et al CREAM: Clustering of genomic REgions Analysis Method</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0002901">codeocean.com/capsule/0002901</a>
@@ -4764,7 +4787,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1093/bioinformatics/btz485">Madani Tonekaboni et al SIGN: similarity identification in gene expression
+							<a href="https://doi.org/10.1093/bioinformatics/btz485">Madani Tonekaboni et al SIGN: similarity identification in gene expression</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0544852">codeocean.com/capsule/0544852</a>
@@ -4772,7 +4795,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0349">Mer et al Integrative Pharmacogenomics Analysis of Patient-Derived Xenografts
+							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0349">Mer et al Integrative Pharmacogenomics Analysis of Patient-Derived Xenografts</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0566399">codeocean.com/capsule/0566399</a>
@@ -4780,7 +4803,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1007/978-981-32-9816-3_19">Sandhu et al Applications of Computational Systems Biology in Cancer Signaling Pathways
+							<a href="https://doi.org/10.1007/978-981-32-9816-3_19">Sandhu et al Applications of Computational Systems Biology in Cancer Signaling Pathways</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0795540">codeocean.com/capsule/0795540</a>
@@ -4788,7 +4811,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1200/CCI.18.00102">Sandhu et al Meta-Analysis of 1,200 Transcriptomic Profiles Identifies a Prognostic Model for Pancreatic Ductal Adenocarcinoma
+							<a href="https://doi.org/10.1200/CCI.18.00102">Sandhu et al Meta-Analysis of 1,200 Transcriptomic Profiles Identifies a Prognostic Model for Pancreatic Ductal Adenocarcinoma</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/7402260">codeocean.com/capsule/7402260</a>
@@ -4796,7 +4819,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1101/052910">Gendoo et al MetaGxData: Clinically Annotated Breast, Ovarian and Pancreatic Cancer Datasets and their Use in Generating a Multi-Cancer Gene Signature
+							<a href="https://doi.org/10.1101/052910">Gendoo et al MetaGxData: Clinically Annotated Breast, Ovarian and Pancreatic Cancer Datasets and their Use in Generating a Multi-Cancer Gene Signature</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6438633">codeocean.com/capsule/6438633</a>
@@ -4804,7 +4827,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1093/jamia/ocx062">Yao et al Tissue specificity of in vitro drug sensitivity
+							<a href="https://doi.org/10.1093/jamia/ocx062">Yao et al Tissue specificity of in vitro drug sensitivity</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/5502756">codeocean.com/capsule/5502756</a>
@@ -4812,7 +4835,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1038/s41467-017-01153-8">Safikhani et al Gene isoforms as expression-based biomarkers predictive of drug response in vitro
+							<a href="https://doi.org/10.1038/s41467-017-01153-8">Safikhani et al Gene isoforms as expression-based biomarkers predictive of drug response in vitro</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0002901">codeocean.com/capsule/0002901</a>
@@ -4820,7 +4843,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1158/0008-5472.CAN-17-0096">El-Hachem et al Integrative Cancer Pharmacogenomics to Infer Large-Scale Drug Taxonomy
+							<a href="https://doi.org/10.1158/0008-5472.CAN-17-0096">El-Hachem et al Integrative Cancer Pharmacogenomics to Infer Large-Scale Drug Taxonomy</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/4252248">codeocean.com/capsule/4252248</a>
@@ -4828,7 +4851,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.12688/f1000research.9611.3">Safikhani et al Revisiting inconsistency in large pharmacogenomic studies
+							<a href="https://doi.org/10.12688/f1000research.9611.3">Safikhani et al Revisiting inconsistency in large pharmacogenomic studies</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6276064">codeocean.com/capsule/6276064</a>
@@ -4925,11 +4948,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,895 | 🐛 167 | 📅 2026-10-28 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,148 | 🐛 72 | 📅 2026-11-01 - Everything related to the Docker containerization system
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,917 | 🐛 167 | 📅 2026-11-02 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,160 | 🐛 73 | 📅 2026-11-01 - Everything related to the Docker containerization system
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,630 | 🐛 31 | 📅 2026-10-11 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,537 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,687 | 🐛 12 | 📅 2026-11-01 - Jupyter projects, libraries and resources
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,539 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,690 | 🐛 12 | 📅 2026-11-02 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,707 | 🐛 29 | 📅 2026-10-26 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 367 | 🐛 29 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 50 | 🐛 5 | 📅 2023-09-27 - Resources, data, tools, and scholarship
@@ -4948,4 +4971,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
