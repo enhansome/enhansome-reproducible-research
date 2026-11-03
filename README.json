@@ -69,11 +69,11 @@
                 "id": 1340747000,
                 "language": "Mojo",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T22:39:22Z",
+                "last_commit": "2026-11-03T18:29:17Z",
                 "open_issues": 1,
                 "owner": "mojolearn",
                 "repo": "mojolearn",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -111,11 +111,11 @@
                 "id": 1423681242,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-01T15:38:50Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-03T02:07:25Z",
+                "open_issues": 32,
                 "owner": "hayagrivai-labs",
                 "repo": "sciproof",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "artifact-evaluation",
                   "beginners",
@@ -153,7 +153,7 @@
                 "id": 1358113610,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T21:02:25Z",
+                "last_commit": "2026-11-03T16:16:37Z",
                 "open_issues": 4,
                 "owner": "luizfnsilva",
                 "repo": "closure_drift",
@@ -182,6 +182,36 @@
                 ]
               },
               "first_seen": "2026-10-13T20:10:48.339Z"
+            },
+            {
+              "node_type": "item",
+              "title": "debt-verify",
+              "description": "a decision-procedure repo where the number of decisions the data actually supports is reported alongside the coverage that justifies it",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Verifiable execution of sovereign debt restructuring clauses under data revision",
+                "homepage": null,
+                "id": 1405015543,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-05T03:00:25Z",
+                "open_issues": 0,
+                "owner": "ZhangYangyi03",
+                "repo": "debt-verify",
+                "stars": 1,
+                "topics": [
+                  "computational-complexity",
+                  "conformal-prediction",
+                  "debt-restructuring",
+                  "formal-verification",
+                  "imf",
+                  "kleene-logic",
+                  "sovereign-debt",
+                  "three-valued-logic"
+                ]
+              },
+              "first_seen": "2026-11-02T22:42:14.518Z"
             },
             {
               "node_type": "item",
@@ -253,36 +283,6 @@
                 ]
               },
               "first_seen": "2026-08-28T23:31:17.439Z"
-            },
-            {
-              "node_type": "item",
-              "title": "debt-verify",
-              "description": "a decision-procedure repo where the number of decisions the data actually supports is reported alongside the coverage that justifies it",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Verifiable execution of sovereign debt restructuring clauses under data revision",
-                "homepage": null,
-                "id": 1405015543,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-05T03:00:25Z",
-                "open_issues": 0,
-                "owner": "ZhangYangyi03",
-                "repo": "debt-verify",
-                "stars": 0,
-                "topics": [
-                  "computational-complexity",
-                  "conformal-prediction",
-                  "debt-restructuring",
-                  "formal-verification",
-                  "imf",
-                  "kleene-logic",
-                  "sovereign-debt",
-                  "three-valued-logic"
-                ]
-              },
-              "first_seen": "2026-11-02T22:42:14.518Z"
             },
             {
               "node_type": "item",
@@ -452,7 +452,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T09:18:56Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
                 "stars": 296,
@@ -492,7 +492,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -584,7 +584,7 @@
                 "open_issues": 0,
                 "owner": "27-GROUP",
                 "repo": "kveritas-releases",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-25T17:34:55.890Z"
@@ -902,11 +902,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-02T19:34:27Z",
+            "last_commit": "2026-11-03T19:38:08Z",
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79917,
+            "stars": 79931,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -932,7 +932,7 @@
             "open_issues": 73,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37160,
+            "stars": 37167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -996,7 +996,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6539,
+            "stars": 6538,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1021,11 +1021,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-02T02:49:02Z",
+            "last_commit": "2026-11-03T04:05:28Z",
             "open_issues": 12,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4690,
+            "stars": 4689,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1060,7 +1060,7 @@
             "open_issues": 29,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1707,
+            "stars": 1708,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:42:14.518Z",
+    "last_updated": "2026-11-03T20:28:14.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
