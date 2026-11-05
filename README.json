@@ -59,48 +59,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mojolearn",
-              "description": "GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "GPU machine learning in Mojo that supports bitwise identical inference and training on Apple Metal, NVIDIA CUDA and AMD HIP.",
-                "homepage": "https://mojolearn.org",
-                "id": 1340747000,
-                "language": "Mojo",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-04T20:35:18Z",
-                "open_issues": 1,
-                "owner": "mojolearn",
-                "repo": "mojolearn",
-                "stars": 11,
-                "topics": [
-                  "ai",
-                  "artificial-intelligence",
-                  "attention",
-                  "bitwise-identical",
-                  "cuda",
-                  "decision-trees",
-                  "deep-learning",
-                  "gbdt",
-                  "gpu",
-                  "gradient-boosting",
-                  "machine-learning",
-                  "mamba",
-                  "metal",
-                  "mojo",
-                  "neural-networks",
-                  "reproducibility",
-                  "rocm",
-                  "samba",
-                  "state-space-models",
-                  "transformer"
-                ]
-              },
-              "first_seen": "2026-10-25T17:34:55.890Z"
-            },
-            {
-              "node_type": "item",
               "title": "SciProof",
               "description": "Records computational experiments and creates machine-verifiable evidence manifests: integrity hashes, opt-in re-execution, numerical tolerances, and direct LaTeX macro exports for paper drafts",
               "children": [],
@@ -111,11 +69,11 @@
                 "id": 1423681242,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T03:15:11Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-05T14:58:37Z",
+                "open_issues": 28,
                 "owner": "hayagrivai-labs",
                 "repo": "sciproof",
-                "stars": 11,
+                "stars": 13,
                 "topics": [
                   "artifact-evaluation",
                   "beginners",
@@ -140,6 +98,48 @@
                 ]
               },
               "first_seen": "2026-10-28T19:27:15.281Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mojolearn",
+              "description": "GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GPU machine learning in Mojo that supports bitwise identical inference and training on Apple Metal, NVIDIA CUDA and AMD HIP.",
+                "homepage": "https://mojolearn.org",
+                "id": 1340747000,
+                "language": "Mojo",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-05T18:56:20Z",
+                "open_issues": 1,
+                "owner": "mojolearn",
+                "repo": "mojolearn",
+                "stars": 12,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "attention",
+                  "bitwise-identical",
+                  "cuda",
+                  "decision-trees",
+                  "deep-learning",
+                  "gbdt",
+                  "gpu",
+                  "gradient-boosting",
+                  "machine-learning",
+                  "mamba",
+                  "metal",
+                  "mojo",
+                  "neural-networks",
+                  "reproducibility",
+                  "rocm",
+                  "samba",
+                  "state-space-models",
+                  "transformer"
+                ]
+              },
+              "first_seen": "2026-10-25T17:34:55.890Z"
             },
             {
               "node_type": "item",
@@ -455,7 +455,7 @@
                 "open_issues": 3,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 337,
+                "stars": 345,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -650,7 +650,7 @@
             "id": 1234997973,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T02:26:59Z",
+            "last_commit": "2026-11-05T19:58:34Z",
             "open_issues": 0,
             "owner": "RetrogradeLabs",
             "repo": "lune-mcp-server",
@@ -855,7 +855,7 @@
             "open_issues": 49,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15351,
+            "stars": 15350,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -902,11 +902,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-04T19:17:42Z",
+            "last_commit": "2026-11-05T19:53:00Z",
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79947,
+            "stars": 79958,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -929,10 +929,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-11-04T19:38:56Z",
-            "open_issues": 70,
+            "open_issues": 73,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37174,
+            "stars": 37179,
             "topics": [
               "awesome",
               "awesome-list",
@@ -996,7 +996,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6538,
+            "stars": 6540,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1021,11 +1021,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-04T03:23:50Z",
+            "last_commit": "2026-11-05T03:47:04Z",
             "open_issues": 13,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4690,
+            "stars": 4691,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1089,7 +1089,7 @@
             "open_issues": 29,
             "owner": "j-andrews7",
             "repo": "awesome-bioinformatics-benchmarks",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "benchmarking-study",
               "bioinformatics",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:44:24.125Z",
+    "last_updated": "2026-11-05T20:59:58.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
