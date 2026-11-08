@@ -4567,9 +4567,9 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
   * [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
 * Python
-  * [SciProof](https://github.com/hayagrivai-labs/sciproof) ⭐ 13 | 🐛 31 | 🌐 Python | 📅 2026-11-07 - Records computational experiments and creates machine-verifiable evidence manifests: integrity hashes, opt-in re-execution, numerical tolerances, and direct LaTeX macro exports for paper drafts
-  * [mojolearn](https://github.com/mojolearn/mojolearn) ⭐ 12 | 🐛 1 | 🌐 Mojo | 📅 2026-11-07 - GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.
-  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-11-04 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
+  * [SciProof](https://github.com/hayagrivai-labs/sciproof) ⭐ 13 | 🐛 26 | 🌐 Python | 📅 2026-11-08 - Records computational experiments and creates machine-verifiable evidence manifests: integrity hashes, opt-in re-execution, numerical tolerances, and direct LaTeX macro exports for paper drafts
+  * [mojolearn](https://github.com/mojolearn/mojolearn) ⭐ 12 | 🐛 1 | 🌐 Mojo | 📅 2026-11-08 - GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.
+  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-11-08 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
   * [debt-verify](https://github.com/ZhangYangyi03/debt-verify) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - a decision-procedure repo where the number of decisions the data actually supports is reported alongside the coverage that justifies it
   * [auditlite](https://github.com/heidihelena/auditlite) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
   * [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-07-10 - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
@@ -4579,7 +4579,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [Strategy Stability Report](https://github.com/suguobin2021/strategy-stability-report) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - diagnostics for backtest stability across time blocks, costs, and drawdowns
   * [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
 * Linux-related (polyglot)
-  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 393 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
+  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 426 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
   * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 86 | 🐛 0 | 📅 2026-10-01 - archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility
   * [BILN](https://github.com/JimmyXtesla/BILN) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - a lightweight, "black box" flight recorder for bioinformatics experiments
   * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-29 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
@@ -4923,7 +4923,7 @@ Experimental papers that have associated notebooks
 
 ## Minimal Standards
 
-* [Open Forecast Receipt](https://github.com/TheFutureEdge/open-forecast-receipt) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - MIT-licensed JSON Schema and deterministic verification toolkit for portable, tamper-evident forecast records; preserves published forecasts for later inspection and comparison without treating integrity proofs as evidence of predictive accuracy.
+* [Open Forecast Receipt](https://github.com/TheFutureEdge/open-forecast-receipt) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 - MIT-licensed JSON Schema and deterministic verification toolkit for portable, tamper-evident forecast records; preserves published forecasts for later inspection and comparison without treating integrity proofs as evidence of predictive accuracy.
 * [STORMS](https://www.stormsmicrobiome.org/) - Strengthening The Organization and Reporting of Microbiome Studies (STORMS) is a checklist for reporting on human microbiome studies. [Paper](https://doi.org/10.1038/s41591-021-01552-x)
 
 ## Organizations
@@ -4948,11 +4948,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,974 | 🐛 167 | 📅 2026-11-07 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,190 | 🐛 75 | 📅 2026-11-04 - Everything related to the Docker containerization system
-* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,631 | 🐛 31 | 📅 2026-10-11 - So many pipelines frameworks
-* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,540 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,692 | 🐛 14 | 📅 2026-11-07 - Jupyter projects, libraries and resources
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,983 | 🐛 167 | 📅 2026-11-08 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,196 | 🐛 75 | 📅 2026-11-04 - Everything related to the Docker containerization system
+* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,632 | 🐛 31 | 📅 2026-10-11 - So many pipelines frameworks
+* [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,541 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,692 | 🐛 14 | 📅 2026-11-08 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,709 | 🐛 30 | 📅 2026-11-06 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 368 | 🐛 29 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 50 | 🐛 5 | 📅 2023-09-27 - Resources, data, tools, and scholarship
@@ -4971,4 +4971,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
