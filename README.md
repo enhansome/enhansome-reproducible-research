@@ -4571,8 +4571,8 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
 * Python
   * [SciProof](https://github.com/hayagrivai-labs/sciproof) ⭐ 13 | 🐛 18 | 🌐 Python | 📅 2026-11-14 - Records computational experiments and creates machine-verifiable evidence manifests: integrity hashes, opt-in re-execution, numerical tolerances, and direct LaTeX macro exports for paper drafts
-  * [mojolearn](https://github.com/mojolearn/mojolearn) ⭐ 12 | 🐛 1 | 🌐 Mojo | 📅 2026-11-14 - GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.
-  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-11-14 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
+  * [mojolearn](https://github.com/mojolearn/mojolearn) ⭐ 12 | 🐛 1 | 🌐 Mojo | 📅 2026-11-15 - GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.
+  * [closure\_drift](https://github.com/luizfnsilva/closure_drift) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-11-15 - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
   * [debt-verify](https://github.com/ZhangYangyi03/debt-verify) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - a decision-procedure repo where the number of decisions the data actually supports is reported alongside the coverage that justifies it
   * [auditlite](https://github.com/heidihelena/auditlite) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
   * [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-07-10 - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
@@ -4582,11 +4582,11 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
   * [Strategy Stability Report](https://github.com/suguobin2021/strategy-stability-report) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - diagnostics for backtest stability across time blocks, costs, and drawdowns
   * [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
 * Linux-related (polyglot)
-  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 711 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
-  * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 195 | 🐛 0 | 📅 2026-10-01 - archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility
+  * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 772 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - flight recorder for AI coding-agent runs: captures the model traffic, shell commands and per-turn file changes from outside the agent process, then re-executes the same run offline with the network off
+  * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 246 | 🐛 0 | 📅 2026-10-01 - archive of AI agents’ pre-run instructions and tool schemas; entries include regeneration commands and labels distinguishing wire-captured from model-reported data for reproducibility
   * [BILN](https://github.com/JimmyXtesla/BILN) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - a lightweight, "black box" flight recorder for bioinformatics experiments
   * [server-spy](https://github.com/lennart-rth/server-spy) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-08-29 - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down, for reproducible results on shared infrastructure
-  * [K-Veritas](https://kveritas.org) - wraps any experiment command and seals its results with the code, hardware and time that produced them in a signed report anyone can verify, without re-running the code ([docs](https://kveritas.org/docs/index.html), [releases](https://github.com/27-GROUP/kveritas-releases) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-11-05, [source](https://github.com/27-GROUP/kveritas-go) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2026-11-05)
+  * [K-Veritas](https://kveritas.org) - wraps any experiment command and seals its results with the code, hardware and time that produced them in a signed report anyone can verify, without re-running the code ([docs](https://kveritas.org/docs/index.html), [releases](https://github.com/27-GROUP/kveritas-releases) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-11-15, [source](https://github.com/27-GROUP/kveritas-go) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2026-11-15)
   * [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
 
 ## Literature tools
@@ -4601,7 +4601,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 ## Scientific Data Management Systems
 
-* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
+* [Falsify / PRML](https://github.com/studio-11-co/falsify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
 * [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
 * [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
 * [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
@@ -4951,11 +4951,11 @@ Experimental papers that have associated notebooks
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,114 | 🐛 169 | 📅 2026-11-14 - A topic-centric list of HQ open datasets
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,233 | 🐛 82 | 📅 2026-11-12 - Everything related to the Docker containerization system
-* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,637 | 🐛 31 | 📅 2026-10-11 - So many pipelines frameworks
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,136 | 🐛 170 | 📅 2026-11-15 - A topic-centric list of HQ open datasets
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,238 | 🐛 82 | 📅 2026-11-12 - Everything related to the Docker containerization system
+* [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,637 | 🐛 32 | 📅 2026-10-11 - So many pipelines frameworks
 * [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) ⭐ 6,545 | 🐛 30 | 🌐 R | 📅 2025-09-18 - Section on RR tools
-* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,696 | 🐛 16 | 📅 2026-11-14 - Jupyter projects, libraries and resources
+* [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) ⭐ 4,696 | 🐛 17 | 📅 2026-11-15 - Jupyter projects, libraries and resources
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,709 | 🐛 32 | 📅 2026-11-06 - Semantic web and linked data resources.
 * [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 368 | 🐛 29 | 📅 2026-02-26 - Benchmarks are a related aspect of robustness testing
 * [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) ⭐ 50 | 🐛 5 | 📅 2023-09-27 - Resources, data, tools, and scholarship
@@ -4974,4 +4974,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
