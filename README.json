@@ -70,7 +70,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-14T13:11:54Z",
-                "open_issues": 22,
+                "open_issues": 24,
                 "owner": "hayagrivai-labs",
                 "repo": "sciproof",
                 "stars": 13,
@@ -111,7 +111,7 @@
                 "id": 1340747000,
                 "language": "Mojo",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T21:30:59Z",
+                "last_commit": "2026-11-19T21:39:50Z",
                 "open_issues": 1,
                 "owner": "mojolearn",
                 "repo": "mojolearn",
@@ -153,7 +153,7 @@
                 "id": 1358113610,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T16:39:36Z",
+                "last_commit": "2026-11-19T21:37:44Z",
                 "open_issues": 4,
                 "owner": "luizfnsilva",
                 "repo": "closure_drift",
@@ -445,7 +445,7 @@
                 "open_issues": 3,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 976,
+                "stars": 1011,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -482,7 +482,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaPromptVault",
-                "stars": 396,
+                "stars": 439,
                 "topics": [
                   "agent-harness",
                   "ai-agents",
@@ -755,7 +755,7 @@
             "id": 1219809014,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T13:18:40Z",
+            "last_commit": "2026-11-19T07:46:50Z",
             "open_issues": 0,
             "owner": "falsify-dev",
             "repo": "falsify",
@@ -842,10 +842,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-18T21:40:15Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15352,
+            "stars": 15353,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.439Z"
@@ -892,11 +892,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-18T18:10:34Z",
+            "last_commit": "2026-11-19T18:22:12Z",
             "open_issues": 170,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 80193,
+            "stars": 80209,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -919,10 +919,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T15:33:44Z",
-            "open_issues": 88,
+            "open_issues": 90,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37265,
+            "stars": 37268,
             "topics": [
               "awesome",
               "awesome-list",
@@ -962,7 +962,7 @@
             "open_issues": 32,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6638,
+            "stars": 6637,
             "topics": [
               "awesome-list",
               "workflow"
@@ -986,7 +986,7 @@
             "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6546,
+            "stars": 6545,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1011,11 +1011,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-18T04:45:12Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-19T04:35:10Z",
+            "open_issues": 16,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4700,
+            "stars": 4699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1050,7 +1050,7 @@
             "open_issues": 32,
             "owner": "semantalytics",
             "repo": "awesome-semantic-web",
-            "stars": 1711,
+            "stars": 1710,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:48:22.804Z",
+    "last_updated": "2026-11-19T22:05:08.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reproducible research case studies, projects, tutorials, and media",
@@ -1170,7 +1170,7 @@
       "open_issues": 31,
       "owner": "leipzig",
       "repo": "awesome-reproducible-research",
-      "stars": 414,
+      "stars": 415,
       "topics": [
         "awesome",
         "awesome-list",
